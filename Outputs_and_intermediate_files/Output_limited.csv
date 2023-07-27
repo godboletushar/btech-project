@@ -1,0 +1,1064 @@
+,ID,A1,A2,A3,A4,A5,Score,Sentence_ID,Head,Tail,Head_tags,Tail_tags,Noun_pair,Head_noun_lemmatised,Tail_noun_lemmatised,Common_adjectives
+23,838__industry_17__image_19,2,1,1,1,1,0.660718485287,838,industry,image,{'NOUN'},{'NOUN'},True,industry,image,{'strong'}
+26,6391__science_2__image_6,2,1,1,0,0,0.370467441431,6391,science,image,{'NOUN'},{'NOUN'},True,science,image,"{'sweet', 'bright', 'strong', 'soft', 'weak'}"
+27,4569__potential_7__role_8,3,2,1,1,0,0.775984931547,4569,potential,role,"{'ADJ', 'NOUN'}",{'NOUN'},True,potential,role,{'clear'}
+47,6198__competition_39__stages_44,1,1,0,0,0,0.253644859971,6198,competition,stages,{'NOUN'},{'NOUN'},True,competition,stage,{'bitter'}
+50,3734__potential_19__fields_21,1,1,1,1,0,0.5087778781,3734,potential,fields,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,potential,field,{'clear'}
+62,6613__history_42__reading_40,2,1,1,1,0,0.679489270806,6613,reading,history,"{'NOUN', 'VERB'}",{'NOUN'},True,reading,history,"{'brilliant', 'bright', 'strong'}"
+67,1892__independence_13__form_10,3,2,2,2,1,1.46764838585,1892,form,independence,"{'NOUN', 'VERB'}",{'NOUN'},True,form,independence,{'dim'}
+85,6263__action_10__guide_8,2,2,1,1,1,0.752053611669,6263,action,guide,{'NOUN'},"{'NOUN', 'VERB'}",True,action,guide,"{'brilliant', 'rough'}"
+91,7032__parliament_10__advances_8,1,1,1,0,0,0.392593240199,7032,parliament,advances,{'NOUN'},"{'NOUN', 'VERB'}",True,parliament,advance,{'strong'}
+95,6383__choice_3__subject_2,1,1,0,0,0,0.326809561647,6383,subject,choice,"{'ADJ', 'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,subject,choice,{'bright'}
+115,7117__marble_18__floor_21,3,2,1,1,1,0.847864367396,7117,marble,floor,{'NOUN'},{'NOUN'},True,marble,floor,"{'solid', 'cold'}"
+121,2557__penalty_16__calculations_21,2,1,1,1,0,0.627733779924,2557,penalty,calculations,{'NOUN'},{'NOUN'},True,penalty,calculation,{'cold'}
+135,4893__smile_2__spread_3,3,2,2,1,1,0.967448203496,4893,smile,spread,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,smile,spread,{'sweet'}
+154,3730__fields_27__application_26,2,1,0,0,0,0.301043965765,3730,application,fields,{'NOUN'},"{'NOUN', 'VERB'}",True,application,field,{'smooth'}
+155,6848__childhood_20__training_15,2,2,2,1,0,0.61000931778,6848,training,childhood,"{'NOUN', 'VERB'}",{'NOUN'},True,training,childhood,{'rough'}
+164,859__switch_22__shadow_27,3,2,0,0,0,0.440528701333,859,switch,shadow,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,switch,shadow,{'dim'}
+191,3636__riots_23__responses_19,1,1,1,0,0,0.490199202264,3636,responses,riots,{'NOUN'},{'NOUN'},True,response,riot,{'heavy'}
+208,1852__programmes_54__resistance_53,3,3,2,2,1,1.56641359421,1852,resistance,programmes,"{'X', 'NOUN'}",{'NOUN'},True,resistance,programme,{'heavy'}
+248,3591__policy_3__roots_7,2,2,0,0,0,0.377115042166,3591,policy,roots,{'NOUN'},{'NOUN'},True,policy,root,"{'bitter', 'weak'}"
+294,1469__debt_12__ceiling_13,3,3,1,1,1,0.941643757502,1469,debt,ceiling,{'NOUN'},{'NOUN'},True,debt,ceiling,{'heavy'}
+308,5387__soup_16__heart_13,3,0,0,0,0,0.164865379166,5387,heart,soup,{'NOUN'},{'NOUN'},True,heart,soup,"{'warm', 'sweet', 'cold'}"
+316,14068__change_27__feel_15,1,1,1,0,0,0.378663300407,14068,feel,change,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,feel,change,{'smooth'}
+324,6852__child_13__stage_16,1,0,0,0,0,0.166055434504,6852,child,stage,{'NOUN'},"{'NOUN', 'VERB'}",True,child,stage,"{'cold', 'warm', 'bitter'}"
+363,6220__information_19__support_20,1,1,1,0,0,0.442593240199,6220,information,support,{'NOUN'},"{'NOUN', 'VERB'}",True,information,support,"{'clear', 'shallow', 'soft'}"
+366,503__day_36__gifts_30,1,0,0,0,0,0.141048442678,503,gifts,day,{'NOUN'},{'NOUN'},True,gift,day,{'sweet'}
+380,3748__management_15__role_11,3,2,1,1,0,0.752053611669,3748,role,management,{'NOUN'},{'NOUN'},True,role,management,"{'brilliant', 'clear', 'strong'}"
+383,6437__boys_12__image_19,1,1,1,0,0,0.42009199744,6437,boys,image,{'NOUN'},{'NOUN'},True,boy,image,"{'sweet', 'bright'}"
+388,1751__temptation_13__feeds_11,3,3,2,1,0,1.31852613862,1751,feeds,temptation,"{'NOUN', 'VERB'}",{'NOUN'},True,feed,temptation,{'sweet'}
+392,133__music_12__access_6,1,1,0,0,0,0.310352210255,133,music,access,{'NOUN'},{'NOUN'},True,music,access,{'smooth'}
+411,2553__safety_17__contribution_14,1,1,0,0,0,0.253644859971,2553,contribution,safety,{'NOUN'},{'NOUN'},True,contribution,safety,{'clear'}
+420,4482__risk_20__assessments_21,2,2,1,1,0,0.663597914864,4482,risk,assessments,"{'NOUN', 'VERB'}",{'NOUN'},True,risk,assessment,{'clear'}
+429,3147__aims_9__support_11,1,1,1,0,0,0.345667669999,3147,support,aims,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,support,aim,{'deep'}
+431,1847__economies_19__home_18,3,2,1,1,0,0.778790002764,1847,home,economies,"{'NOUN', 'VERB'}",{'NOUN'},True,home,economy,"{'heated', 'rough', 'clean'}"
+439,1875__lies_3__message_7,1,1,1,1,0,0.504554630774,1875,lies,message,"{'NOUN', 'VERB'}",{'NOUN'},True,lie,message,"{'sweet', 'soft'}"
+451,1938__employment_23__return_20,2,2,1,0,0,0.314008933448,1938,return,employment,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,return,employment,"{'solid', 'strong', 'soft'}"
+454,1974__stables_33__stages_45,2,1,1,0,0,0.417126883904,1974,stables,stages,{'NOUN'},{'NOUN'},True,stable,stage,{'warm'}
+457,7058__advances_12__attitudes_39,3,2,1,0,0,0.371140501508,7058,advances,attitudes,"{'NOUN', 'VERB'}",{'NOUN'},True,advance,attitude,{'brilliant'}
+484,841__presence_3__seats_13,1,0,0,0,0,0.166055434504,841,seats,presence,{'NOUN'},{'NOUN'},True,seat,presence,{'warm'}
+487,2829__beds_9__block_6,1,0,0,0,0,0.203481758992,2829,block,beds,"{'NOUN', 'VERB'}",{'NOUN'},True,block,bed,{'cold'}
+498,4989__voice_14__action_9,2,2,1,0,0,0.37887653234,4989,voice,action,{'NOUN'},{'NOUN'},True,voice,action,{'rough'}
+526,1393__suggestion_15__loss_17,2,2,2,0,0,0.618594879928,1393,suggestion,loss,{'NOUN'},{'NOUN'},True,suggestion,loss,{'clear'}
+540,681__evidence_19__supports_20,3,2,1,1,1,0.711724791553,681,evidence,supports,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,evidence,support,"{'deep', 'clear'}"
+547,7019__views_19__strategy_2,1,0,0,0,0,0.161833212282,7019,views,strategy,"{'NOUN', 'VERB'}",{'NOUN'},True,view,strategy,{'clear'}
+549,3736__information_34__handling_35,1,1,1,1,1,0.611621982927,3736,information,handling,{'NOUN'},"{'NOUN', 'VERB'}",True,information,handling,{'brilliant'}
+563,6303__play_18__role_21,2,2,1,1,0,0.679489270806,6303,play,role,"{'NOUN', 'VERB'}",{'NOUN'},True,play,role,"{'brilliant', 'rough'}"
+604,3518__spirit_55__sense_45,2,2,0,0,0,0.318980149882,3518,sense,spirit,"{'NOUN', 'VERB'}",{'NOUN'},True,sense,spirit,"{'bright', 'strong'}"
+607,6365__girl_3__situation_9,2,1,0,0,0,0.310150501857,6365,girl,situation,{'NOUN'},{'NOUN'},True,girl,situation,{'rough'}
+608,4491__metal_46__plants_48,2,1,0,0,0,0.330259383903,4491,metal,plants,{'NOUN'},{'NOUN'},True,metal,plant,"{'heated', 'bright'}"
+621,6428__change_5__attitudes_9,1,1,1,0,0,0.375810971696,6428,change,attitudes,"{'NOUN', 'VERB'}",{'NOUN'},True,change,attitude,"{'deep', 'clear'}"
+624,2533__crimes_20__elements_25,2,1,1,1,0,0.662852827543,2533,crimes,elements,{'NOUN'},{'NOUN'},True,crime,element,{'heavy'}
+625,6362__expression_8__regard_5,3,2,2,2,1,1.42373093361,6362,regard,expression,"{'NOUN', 'VERB'}",{'NOUN'},True,regard,expression,{'warm'}
+628,198__sport_2__sources_13,2,0,0,0,0,0.203481758992,198,sources,sport,{'NOUN'},{'NOUN'},True,source,sport,{'bright'}
+637,6469__systems_25__barriers_21,2,2,1,1,0,0.566915140275,6469,barriers,systems,{'NOUN'},{'NOUN'},True,barrier,system,{'dense'}
+648,1260__success_12__eye_9,2,2,2,0,0,0.751020953701,1260,success,eye,{'NOUN'},{'NOUN'},True,success,eye,{'bright'}
+673,1247__light_10__regard_5,1,1,1,1,0,0.594706106907,1247,light,regard,"{'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,light,regard,{'warm'}
+676,6447__beginning_22__action_25,1,1,1,0,0,0.38252384674,6447,beginning,action,"{'NOUN', 'VERB'}",{'NOUN'},True,beginning,action,"{'brilliant', 'rough'}"
+679,13765__weeks_9__running_5,2,2,1,0,0,0.368612776806,13765,running,weeks,"{'NOUN', 'VERB'}",{'NOUN'},True,running,week,{'rough'}
+695,1285__appeal_10__parallels_7,2,1,1,0,0,0.405128379649,1285,appeal,parallels,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,appeal,parallel,"{'clear', 'strong'}"
+696,3151__challenge_8__aim_2,1,1,0,0,0,0.305548836532,3151,aim,challenge,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,aim,challenge,{'deep'}
+697,6417__definition_22__challenge_20,2,2,1,1,1,0.752053611669,6417,challenge,definition,"{'NOUN', 'VERB'}",{'NOUN'},True,challenge,definition,{'clear'}
+703,3129__task_10__fighting_4,3,1,1,0,0,0.35905521313,3129,task,fighting,{'NOUN'},"{'NOUN', 'VERB'}",True,task,fighting,{'heavy'}
+737,4580__green_7__light_6,2,1,1,1,1,0.641717981073,4580,light,green,"{'ADJ', 'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,light,green,"{'brilliant', 'murky', 'bright'}"
+764,3636__official_18__responses_19,1,1,1,1,1,0.639191860351,3636,official,responses,"{'ADJ', 'NOUN'}",{'NOUN'},True,official,response,{'soft'}
+767,3197__discussions_28__materials_7,2,0,0,0,0,0.161833212282,3197,discussions,materials,{'NOUN'},{'NOUN'},True,discussion,material,"{'heated', 'heavy', 'clear', 'smooth'}"
+774,3195__contract_3__standard_2,2,1,1,0,0,0.407857499647,3195,standard,contract,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,standard,contract,{'clear'}
+785,6295__replacements_22__deal_18,2,1,1,1,1,0.682883394413,6295,deal,replacements,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,replacement,{'weak'}
+790,3726__actions_40__reaction_35,3,2,1,0,0,0.46200457976,3726,reaction,actions,{'NOUN'},{'NOUN'},True,reaction,action,{'brilliant'}
+794,3214__aims_26__support_29,2,1,1,1,0,0.640763024991,3214,aims,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,aim,support,{'deep'}
+800,1082__progress_16__canyon_27,3,1,1,0,0,0.397260998989,1082,progress,canyon,"{'NOUN', 'VERB'}",{'NOUN'},True,progress,canyon,{'shallow'}
+803,873__items_4__charm_6,3,2,1,1,0,0.740584122306,873,items,charm,{'NOUN'},"{'NOUN', 'VERB'}",True,item,charm,{'warm'}
+805,7499__touches_2__support_7,2,2,1,0,0,0.539707761487,7499,touches,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,touch,support,{'soft'}
+822,6550__issues_44__look_41,1,1,1,1,0,0.504554630774,6550,look,issues,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,look,issue,{'bitter'}
+830,5569__leather_17__affair_18,3,3,3,2,0,1.38755418878,5569,leather,affair,{'NOUN'},{'NOUN'},True,leather,affair,"{'heated', 'heavy'}"
+854,4552__result_15__operations_18,1,1,1,0,0,0.391318173743,4552,result,operations,"{'NOUN', 'VERB'}",{'NOUN'},True,result,operation,"{'brilliant', 'murky'}"
+860,1551__visit_12__air_7,2,1,1,1,0,0.627733779924,1551,visit,air,"{'NOUN', 'VERB'}",{'NOUN'},True,visit,air,{'smooth'}
+863,2645__approach_3__frame_6,2,2,2,1,0,0.620907832321,2645,approach,frame,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,approach,frame,{'solid'}
+871,2646__indifference_18__extreme_17,3,3,2,2,1,1.28557683635,2646,extreme,indifference,"{'ADJ', 'NOUN'}",{'NOUN'},True,extreme,indifference,{'icy'}
+872,1768__demand_46__cut_44,2,1,1,1,1,0.682883394413,1768,cut,demand,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,cut,demand,{'clear'}
+888,5847__planet_18__path_14,3,3,3,3,0,1.76530348477,5847,path,planet,{'NOUN'},{'NOUN'},True,path,planet,{'icy'}
+904,1869__struggle_2__revolution_5,3,2,1,0,0,0.46200457976,1869,struggle,revolution,"{'NOUN', 'VERB'}",{'NOUN'},True,struggle,revolution,{'bitter'}
+919,11201__start_5__tricks_4,1,1,0,0,0,0.412824362787,11201,tricks,start,{'NOUN'},"{'NOUN', 'VERB'}",True,trick,start,{'brilliant'}
+961,1795__companies_7__rose_14,2,2,1,1,0,0.702680041197,1795,rose,companies,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,rose,company,{'bright'}
+979,1521__service_17__run_14,2,1,1,1,1,0.63916045069,1521,run,service,"{'NOUN', 'VERB'}","{'X', 'NOUN', 'VERB'}",True,run,service,"{'brilliant', 'smooth'}"
+988,6472__looks_4__section_3,1,1,1,0,0,0.473636707094,6472,section,looks,"{'X', 'NOUN'}","{'NOUN', 'VERB'}",True,section,look,{'icy'}
+1017,1487__mix_21__power_23,1,1,1,0,0,0.490199202264,1487,mix,power,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,mix,power,{'icy'}
+1026,6406__teacher_3__cover_7,1,0,0,0,0,0.123505676166,6406,teacher,cover,{'NOUN'},"{'NOUN', 'VERB'}",True,teacher,cover,{'bright'}
+1027,8456__world_8__cold_4,3,1,1,0,0,0.480145791253,8456,cold,world,"{'ADV', 'ADJ', 'NOUN'}",{'NOUN'},True,cold,world,{'icy'}
+1043,6461__health_9__impact_5,1,1,1,1,0,0.544427738548,6461,impact,health,{'NOUN'},{'NOUN'},True,impact,health,{'clear'}
+1048,7046__election_22__cast_17,2,1,0,0,0,0.347635391534,7046,cast,election,"{'NOUN', 'VERB'}",{'NOUN'},True,cast,election,{'brilliant'}
+1059,9448__mind_4__change_2,1,1,1,1,0,0.521914874054,9448,change,mind,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,change,mind,{'clear'}
+1061,2513__approach_6__deals_3,1,1,1,0,0,0.38252384674,2513,deals,approach,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,deal,approach,"{'solid', 'weak'}"
+1062,3550__support_8__withdrawal_5,2,1,1,0,0,0.41180720609,3550,withdrawal,support,{'NOUN'},"{'NOUN', 'VERB'}",True,withdrawal,support,{'heavy'}
+1068,2974__statement_11__issue_9,2,1,1,1,0,0.528191600053,2974,statement,issue,{'NOUN'},"{'NOUN', 'VERB'}",True,statement,issue,"{'heated', 'murky', 'clear', 'bitter', 'weak'}"
+1071,149__words_4__control_3,3,3,2,1,0,1.12092880829,149,control,words,"{'NOUN', 'VERB'}",{'NOUN'},True,control,word,{'brilliant'}
+1090,4483__assessments_9__deal_17,2,2,0,0,0,0.335241280862,4483,deal,assessments,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,assessment,{'rough'}
+1108,3079__prospect_26__return_23,2,1,1,1,0,0.662852827543,3079,return,prospect,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,return,prospect,"{'solid', 'strong'}"
+1115,2561__function_14__transfer_12,2,1,1,1,0,0.625886857569,2561,transfer,function,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,transfer,function,{'smooth'}
+1119,8542__police_9__run_12,1,1,1,1,0,0.492585015528,8542,run,police,"{'NOUN', 'VERB'}",{'NOUN'},True,run,police,{'clean'}
+1143,8307__playing_8__fire_10,2,1,1,1,1,0.776696409127,8307,fire,playing,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,fire,playing,"{'brilliant', 'heavy'}"
+1155,2129__week_15__turnover_17,2,1,0,0,0,0.33019903731,2129,week,turnover,{'NOUN'},{'NOUN'},True,week,turnover,{'heavy'}
+1174,6876__language_4__talking_9,2,1,0,0,0,0.329692581076,6876,language,talking,{'NOUN'},"{'NOUN', 'VERB'}",True,language,talking,"{'sweet', 'soft'}"
+1186,1556__silence_13__game_11,3,2,2,2,1,1.30941820607,1556,game,silence,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,game,silence,{'cold'}
+1208,5523__fingers_8__move_13,1,0,0,0,0,0.128434063593,5523,move,fingers,"{'NOUN', 'VERB'}",{'NOUN'},True,move,finger,{'smooth'}
+1223,6383__choices_14__pupils_10,1,1,0,0,0,0.260802736669,6383,pupils,choices,{'NOUN'},{'NOUN'},True,pupil,choice,"{'brilliant', 'bright'}"
+1262,3685__association_9__hand_15,1,0,0,0,0,0.149218833197,3685,hand,association,"{'NOUN', 'VERB'}",{'NOUN'},True,hand,association,"{'strong', 'weak'}"
+1264,6725__technique_61__canvas_57,2,1,1,0,0,0.407857499647,6725,canvas,technique,{'NOUN'},{'NOUN'},True,canvas,technique,{'rough'}
+1271,1852__field_17__network_4,2,1,1,0,0,0.370467441431,1852,field,network,"{'NOUN', 'VERB'}",{'NOUN'},True,field,network,{'murky'}
+1297,972__home_12__retreat_10,2,2,1,1,1,0.75817960378,972,retreat,home,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,retreat,home,{'sweet'}
+1299,4621__smile_15__corner_18,1,1,0,0,0,0.239714920179,4621,smile,corner,"{'NOUN', 'VERB'}",{'NOUN'},True,smile,corner,"{'soft', 'warm', 'cold'}"
+1306,2545__result_31__form_27,1,1,1,1,0,0.550512635412,2545,form,result,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,form,result,"{'dim', 'soft'}"
+1307,1465__economies_48__partners_34,2,1,1,1,0,0.531665020385,1465,partners,economies,{'NOUN'},{'NOUN'},True,partner,economy,{'solid'}
+1313,3482__moment_3__pattern_8,2,0,0,0,0,0.203481758992,3482,moment,pattern,{'NOUN'},"{'NOUN', 'VERB'}",True,moment,pattern,{'heavy'}
+1357,3145__officers_2__rules_12,3,1,0,0,0,0.267965709937,3145,rules,officers,"{'NOUN', 'VERB'}",{'NOUN'},True,rule,officer,{'brilliant'}
+1360,6582__action_10__balance_8,2,1,1,1,1,0.63916045069,6582,action,balance,{'NOUN'},"{'NOUN', 'VERB'}",True,action,balance,{'rough'}
+1378,1974__ride_40__closing_44,2,1,0,0,0,0.271914011352,1974,ride,closing,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,ride,closing,{'smooth'}
+1385,8188__reading_2__lines_5,3,2,2,1,1,0.967448203496,8188,reading,lines,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,reading,line,{'bright'}
+1419,844__object_29__defeats_27,2,2,1,1,1,0.983328090516,844,defeats,object,{'NOUN'},"{'NOUN', 'VERB'}",True,defeat,object,{'heavy'}
+1420,833__child_12__drawing_14,2,2,1,1,1,0.76855199213,833,child,drawing,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,child,drawing,{'rough'}
+1442,7031__resistance_11__campaign_9,2,2,2,1,1,0.741874847999,7031,resistance,campaign,"{'X', 'NOUN'}","{'NOUN', 'VERB'}",True,resistance,campaign,"{'heavy', 'bitter'}"
+1453,2653__approach_3__form_22,2,2,1,0,0,0.691657615447,2653,form,approach,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,form,approach,"{'soft', 'smooth'}"
+1465,6574__staff_5__backgrounds_10,2,0,0,0,0,0.157837707274,6574,backgrounds,staff,{'NOUN'},"{'NOUN', 'VERB'}",True,background,staff,{'bright'}
+1466,3154__punishment_29__approach_27,2,1,1,1,1,0.682883394413,3154,approach,punishment,"{'NOUN', 'VERB'}",{'NOUN'},True,approach,punishment,{'soft'}
+1472,1263__night_15__move_10,1,1,1,0,0,0.459284002183,1263,move,night,"{'NOUN', 'VERB'}",{'NOUN'},True,move,night,{'sweet'}
+1500,3472__society_21__offer_16,2,1,1,0,0,0.404481110325,3472,offer,society,"{'NOUN', 'VERB'}",{'NOUN'},True,offer,society,"{'sweet', 'shallow', 'cold'}"
+1504,712__circle_13__wheel_9,2,1,1,0,0,0.387822050535,712,circle,wheel,"{'NOUN', 'VERB'}",{'NOUN'},True,circle,wheel,{'smooth'}
+1517,1949__courts_16__tussle_13,2,2,1,1,0,0.657759040122,1949,tussle,courts,{'NOUN'},"{'NOUN', 'VERB'}",True,tussle,court,{'bitter'}
+1520,580__societies_19__deal_22,2,1,0,0,0,0.272653307846,580,societies,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,society,deal,"{'rough', 'sweet', 'weak', 'clean'}"
+1522,526__faith_36__hand_33,2,1,1,0,0,0.425369825757,526,hand,faith,"{'NOUN', 'VERB'}",{'NOUN'},True,hand,faith,"{'strong', 'cold', 'weak'}"
+1527,3752__field_9__challenges_4,0,0,0,0,0,0.153615485052,3752,challenges,field,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,challenge,field,"{'rough', 'clear', 'deep'}"
+1536,6324__tests_12__pupils_15,1,1,0,0,0,0.248680395805,6324,tests,pupils,"{'NOUN', 'VERB'}",{'NOUN'},True,test,pupil,{'brilliant'}
+1551,6695__operators_8__hand_6,1,1,1,0,0,0.391475227776,6695,hand,operators,"{'NOUN', 'VERB'}",{'NOUN'},True,hand,operator,{'smooth'}
+1556,5465__party_2__scene_3,2,1,1,1,0,0.456497961805,5465,party,scene,"{'NOUN', 'VERB'}",{'NOUN'},True,party,scene,"{'bitter', 'jolly'}"
+1557,11000__bit_11__hand_5,3,0,0,0,0,0.256541870699,11000,bit,hand,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,bit,hand,{'rough'}
+1566,7034__organization_2__advances_6,2,1,0,0,0,0.316710899684,7034,organization,advances,{'NOUN'},"{'NOUN', 'VERB'}",True,organization,advance,"{'solid', 'smooth'}"
+1574,6463__matters_23__approach_21,2,1,1,1,1,0.757488645912,6463,approach,matters,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,approach,matter,{'soft'}
+1623,1918__support_31__form_26,1,1,1,0,0,0.391318173743,1918,form,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,form,support,{'soft'}
+1647,4516__data_2__sources_3,1,1,1,1,0,0.535425775213,4516,data,sources,{'NOUN'},{'NOUN'},True,data,source,{'bright'}
+1690,2070__holiday_27__plans_28,2,1,1,1,1,0.617167241115,2070,holiday,plans,{'NOUN'},"{'NOUN', 'VERB'}",True,holiday,plan,"{'brilliant', 'rough'}"
+1691,7088__press_10__support_29,1,0,0,0,0,0.17286548854,7088,press,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,press,support,{'shallow'}
+1700,143__film_13__scores_14,2,2,2,1,1,0.701382269067,143,film,scores,"{'NOUN', 'VERB'}",{'NOUN'},True,film,score,{'brilliant'}
+1709,2644__uncertainty_16__grounds_14,3,3,1,1,0,0.692522696799,2644,grounds,uncertainty,{'NOUN'},{'NOUN'},True,ground,uncertainty,{'deep'}
+1715,1341__images_18__ribbon_4,3,0,0,0,0,0.168107382258,1341,images,ribbon,{'NOUN'},{'NOUN'},True,image,ribbon,{'bright'}
+1738,3086__pain_10__deal_8,2,1,1,1,0,0.743808892786,3086,pain,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,pain,deal,{'sweet'}
+1749,4559__techniques_40__operations_38,2,2,1,0,0,0.505458263792,4559,operations,techniques,{'NOUN'},{'NOUN'},True,operation,technique,"{'brilliant', 'clean'}"
+1779,2984__plastic_32__reflectors_34,2,1,1,0,0,0.41180720609,2984,plastic,reflectors,"{'ADJ', 'NOUN'}",{'NOUN'},True,plastic,reflector,{'bright'}
+1793,7083__guarantee_9__support_14,2,1,1,1,0,0.525075354053,7083,support,guarantee,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,support,guarantee,{'clear'}
+1797,110__wave_37__ride_34,2,2,2,1,1,0.83041787775,110,ride,wave,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,ride,wave,{'smooth'}
+1800,3197__exercises_26__materials_7,1,0,0,0,0,0.161833212282,3197,exercises,materials,"{'NOUN', 'VERB'}",{'NOUN'},True,exercise,material,"{'heavy', 'soft'}"
+1802,5352__desire_6__feed_7,2,2,1,1,0,0.718912958914,5352,desire,feed,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,desire,feed,{'sweet'}
+1833,6190__sense_13__attitudes_19,2,1,0,0,0,0.306734593736,6190,sense,attitudes,"{'NOUN', 'VERB'}",{'NOUN'},True,sense,attitude,{'deep'}
+1836,1773__demand_16__call_23,2,2,1,0,0,0.38693673203,1773,demand,call,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,demand,call,"{'heated', 'clear'}"
+1864,6247__change_19__performance_22,1,1,1,0,0,0.403942642611,6247,change,performance,"{'NOUN', 'VERB'}",{'NOUN'},True,change,performance,{'smooth'}
+1887,7011__leadership_9__recovery_3,3,1,1,0,0,0.353453535416,7011,recovery,leadership,"{'ADJ', 'NOUN'}",{'NOUN'},True,recovery,leadership,"{'brilliant', 'solid', 'clear', 'strong', 'soft', 'weak'}"
+1901,2653__approach_3__law_8,1,1,0,0,0,0.294767497678,2653,approach,law,"{'NOUN', 'VERB'}",{'NOUN'},True,approach,law,"{'soft', 'weak'}"
+1923,6363__offer_18__answers_22,1,1,1,0,0,0.38252384674,6363,offer,answers,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,offer,answer,"{'brilliant', 'solid', 'clear'}"
+1925,5779__starts_5__bit_4,1,1,1,0,0,0.490199202264,5779,bit,starts,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,bit,start,{'rough'}
+1932,4657__girls_11__model_10,3,1,1,1,0,0.56937607768,4657,model,girls,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,model,girl,"{'fat', 'candid', 'sexy', 'smiling', 'hot', 'gorgeous', 'attractive'}"
+1936,1506__wage_20__breaks_22,2,1,1,0,0,0.402477550732,1506,wage,breaks,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,wage,break,{'bitter'}
+1987,3195__conditions_6__covers_5,2,1,1,1,1,0.679489270806,3195,covers,conditions,"{'NOUN', 'VERB'}",{'NOUN'},True,cover,condition,{'bright'}
+2003,1477__consequences_8__cuts_12,3,1,1,0,0,0.67996755208,1477,cuts,consequences,"{'NOUN', 'VERB'}",{'NOUN'},True,cut,consequence,{'clear'}
+2004,6581__experience_16__preserve_14,2,1,1,0,0,0.416266590556,6581,preserve,experience,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,preserve,experience,{'sweet'}
+2033,809__poet_20__sense_23,3,2,2,1,1,0.938739138607,809,poet,sense,{'NOUN'},"{'NOUN', 'VERB'}",True,poet,sense,{'bright'}
+2062,1619__defeat_15__margins_13,2,2,2,1,0,0.681630377104,1619,margins,defeat,{'NOUN'},"{'NOUN', 'VERB'}",True,margin,defeat,{'heavy'}
+2071,4549__surface_23__offers_18,2,2,0,0,0,0.323914922036,4549,offers,surface,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,offer,surface,"{'brilliant', 'solid', 'clear', 'shallow', 'cold', 'warm'}"
+2118,1866__masses_6__mother_9,3,3,3,2,1,1.90556232403,1866,masses,mother,{'NOUN'},"{'NOUN', 'VERB'}",True,mass,mother,{'cold'}
+2178,3507__role_26__reduction_23,3,2,2,1,0,0.741874847999,3507,reduction,role,{'NOUN'},{'NOUN'},True,reduction,role,{'clear'}
+2179,1453__floor_12__exchanges_9,3,1,1,1,0,0.535620681825,1453,floor,exchanges,{'NOUN'},{'NOUN'},True,floor,exchange,"{'heated', 'smooth', 'bitter', 'warm', 'icy'}"
+2195,6583__politics_19__relationship_22,2,2,1,1,0,0.822910129632,6583,politics,relationship,{'NOUN'},{'NOUN'},True,politics,relationship,"{'rough', 'murky', 'bitter'}"
+2201,3693__society_9__rules_7,2,1,1,1,1,0.679489270806,3693,rules,society,"{'NOUN', 'VERB'}",{'NOUN'},True,rule,society,"{'rough', 'weak'}"
+2208,6615__history_10__articulation_8,3,3,2,2,0,1.47468630064,6615,history,articulation,{'NOUN'},{'NOUN'},True,history,articulation,{'clear'}
+2210,8542__fist_18__iron_17,2,1,1,1,1,0.776696409127,8542,iron,fist,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,iron,fist,{'soft'}
+2218,2641__reference_10__approach_2,2,1,1,0,0,0.355976692352,2641,reference,approach,{'NOUN'},"{'NOUN', 'VERB'}",True,reference,approach,{'solid'}
+2226,1559__commitment_12__limit_14,2,2,2,1,1,0.722122956036,1559,commitment,limit,{'NOUN'},"{'NOUN', 'VERB'}",True,commitment,limit,{'clear'}
+2228,1564__letters_5__flood_3,3,3,2,2,1,1.54068569145,1564,flood,letters,"{'NOUN', 'VERB'}",{'NOUN'},True,flood,letter,{'icy'}
+2230,1904__leadership_36__linkage_25,2,1,1,1,0,0.627733779924,1904,linkage,leadership,{'NOUN'},{'NOUN'},True,linkage,leadership,{'clear'}
+2232,3077__increase_19__earnings_21,1,1,0,0,0,0.256094435874,3077,increase,earnings,"{'NOUN', 'VERB'}",{'NOUN'},True,increase,earnings,"{'weak', 'strong', 'smooth'}"
+2248,2513__law_10__approach_6,3,2,1,1,0,0.609447607807,2513,law,approach,{'NOUN'},"{'NOUN', 'VERB'}",True,law,approach,"{'soft', 'weak'}"
+2249,3748__issues_29__context_26,2,1,0,0,0,0.410366594157,3748,context,issues,{'NOUN'},"{'NOUN', 'VERB'}",True,context,issue,{'clear'}
+2258,5162__wall_8__patches_5,2,2,1,0,0,0.469361923802,5162,patches,wall,{'NOUN'},"{'NOUN', 'VERB'}",True,patch,wall,"{'icy', 'bright', 'soft', 'smooth'}"
+2284,6630__proof_21__demonstration_18,2,1,1,1,0,0.632909268992,6630,demonstration,proof,{'NOUN'},{'NOUN'},True,demonstration,proof,"{'brilliant', 'clear'}"
+2299,7099__attitude_4__bodies_10,1,1,0,0,0,0.323102914744,7099,bodies,attitude,"{'NOUN', 'VERB'}",{'NOUN'},True,body,attitude,"{'cold', 'warm', 'soft'}"
+2302,3472__society_21__direction_19,1,1,0,0,0,0.344930713493,3472,direction,society,"{'X', 'NOUN'}",{'NOUN'},True,direction,society,{'rough'}
+2306,1889__image_15__challenges_18,2,2,1,1,0,0.59771706193,1889,image,challenges,{'NOUN'},"{'NOUN', 'VERB'}",True,image,challenge,{'strong'}
+2312,8456__reminder_5__cold_4,3,3,2,1,1,1.2114338275,8456,cold,reminder,"{'ADV', 'ADJ', 'NOUN'}",{'NOUN'},True,cold,reminder,{'bitter'}
+2313,12082__people_23__touches_21,3,1,1,0,0,0.385252966738,12082,touches,people,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,touch,people,"{'brilliant', 'rough'}"
+2314,3143__punishment_17__form_15,2,2,2,1,1,0.773890178069,3143,form,punishment,"{'NOUN', 'VERB'}",{'NOUN'},True,form,punishment,{'soft'}
+2332,12375__home_9__monster_13,3,2,1,0,0,0.537564672564,12375,monster,home,{'NOUN'},"{'NOUN', 'VERB'}",True,monster,home,{'cold'}
+2333,6873__argument_19__observations_21,2,1,1,1,0,0.531665020385,6873,argument,observations,{'NOUN'},{'NOUN'},True,argument,observation,{'brilliant'}
+2339,6359__development_12__model_9,1,1,0,0,0,0.267809734385,6359,development,model,"{'X', 'NOUN'}","{'ADJ', 'NOUN', 'VERB'}",True,development,model,{'shallow'}
+2348,3453__crisis_11__malaise_8,3,3,2,1,0,1.32714508416,3453,crisis,malaise,"{'X', 'NOUN'}",{'NOUN'},True,crisis,malaise,{'deep'}
+2357,1958__sun_42__patch_40,3,3,2,2,1,1.39108619186,1958,patch,sun,{'NOUN'},"{'NOUN', 'VERB'}",True,patch,sun,{'bright'}
+2369,6426__schools_13__control_12,3,3,2,2,0,1.52879007043,6426,control,schools,"{'NOUN', 'VERB'}",{'NOUN'},True,control,school,{'brilliant'}
+2420,1861__tactics_33__measures_2,2,1,1,0,0,0.389233675197,1861,measures,tactics,"{'NOUN', 'VERB'}",{'NOUN'},True,measure,tactic,"{'rough', 'soft'}"
+2422,1539__review_8__bodies_9,2,2,2,1,0,0.682740239987,1539,review,bodies,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,review,body,"{'solid', 'rough', 'cold', 'warm', 'weak'}"
+2429,6905__education_35__control_38,2,2,1,0,0,0.417351517715,6905,education,control,{'NOUN'},"{'NOUN', 'VERB'}",True,education,control,{'brilliant'}
+2459,1864__pattern_5__wave_2,2,1,1,1,1,0.679489270806,1864,wave,pattern,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,wave,pattern,{'weak'}
+2464,6957__trouble_2__views_6,2,2,1,1,0,0.611217772195,6957,trouble,views,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,trouble,view,{'bitter'}
+2469,1749__business_17__team_11,1,1,0,0,0,0.28846835189,1749,team,business,{'NOUN'},{'NOUN'},True,team,business,"{'brilliant', 'successful', 'bright', 'clean'}"
+2473,1616__paper_10__looks_7,2,1,1,0,0,0.509000458176,1616,paper,looks,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,paper,look,{'sweet'}
+2557,1366__culture_14__mother_11,3,3,3,2,1,2.17349303952,1366,mother,culture,"{'NOUN', 'VERB'}",{'NOUN'},True,mother,culture,"{'brilliant', 'bitter'}"
+2576,4493__materials_23__inventory_20,1,1,1,0,0,0.378663300407,4493,inventory,materials,"{'NOUN', 'VERB'}",{'NOUN'},True,inventory,material,{'weak'}
+2605,6895__rationality_10__hand_6,3,2,2,0,0,0.419181050348,6895,rationality,hand,{'NOUN'},"{'NOUN', 'VERB'}",True,rationality,hand,{'cold'}
+2608,6633__contradiction_11__account_9,2,2,2,2,1,1.07691535116,6633,contradiction,account,{'NOUN'},"{'NOUN', 'VERB'}",True,contradiction,account,{'clear'}
+2612,3143__alternative_9__form_15,2,1,1,0,0,0.378663300407,3143,form,alternative,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,form,alternative,{'soft'}
+2616,1020__people_28__response_26,2,1,1,0,0,0.428469340079,1020,response,people,{'NOUN'},"{'NOUN', 'VERB'}",True,response,people,"{'brilliant', 'heavy', 'cold', 'bitter', 'warm'}"
+2661,3706__increase_15__attitudes_14,1,1,0,0,0,0.239714920179,3706,attitudes,increase,{'NOUN'},"{'NOUN', 'VERB'}",True,attitude,increase,{'clear'}
+2662,6383__pupils_10__subject_16,1,1,0,0,0,0.359392926099,6383,pupils,subject,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,pupil,subject,{'bright'}
+2686,3196__formulation_16__plan_20,3,3,2,1,0,1.09810767655,3196,formulation,plan,{'NOUN'},"{'NOUN', 'VERB'}",True,formulation,plan,{'weak'}
+2752,6425__children_7__attitudes_9,1,1,1,0,0,0.511590361226,6425,children,attitudes,{'NOUN'},{'NOUN'},True,child,attitude,"{'brilliant', 'warm', 'bitter', 'cold'}"
+2812,7058__management_17__advances_12,1,1,0,0,0,0.406336371358,7058,advances,management,"{'NOUN', 'VERB'}",{'NOUN'},True,advance,management,"{'brilliant', 'solid', 'strong', 'smooth'}"
+2816,592__director_14__operations_13,2,1,1,1,0,0.604274035289,592,operations,director,{'NOUN'},{'NOUN'},True,operation,director,{'brilliant'}
+2831,6820__questions_11__position_7,1,1,0,0,0,0.344930713493,6820,questions,position,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,question,position,"{'murky', 'soft'}"
+2855,6438__children_8__reactions_11,1,1,1,0,0,0.369248292463,6438,reactions,children,{'NOUN'},{'NOUN'},True,reaction,child,"{'brilliant', 'warm', 'bitter', 'cold'}"
+2874,6155__facilities_25__production_14,2,1,0,0,0,0.312023301775,6155,production,facilities,{'NOUN'},{'NOUN'},True,production,facility,{'brilliant'}
+2875,2539__day_35__rule_37,2,1,1,0,0,0.401290080507,2539,day,rule,{'NOUN'},"{'NOUN', 'VERB'}",True,day,rule,"{'rough', 'murky'}"
+2878,1484__costs_27__handling_26,1,1,1,1,0,0.504554630774,1484,handling,costs,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,handling,cost,{'rough'}
+2889,2866__streets_9__fighting_11,3,1,1,1,1,0.721275813247,2866,fighting,streets,"{'NOUN', 'VERB'}",{'NOUN'},True,fighting,street,{'heated'}
+2902,8092__divorce_37__situations_32,2,2,1,0,0,0.398960261442,8092,situations,divorce,{'NOUN'},"{'NOUN', 'VERB'}",True,situation,divorce,{'bitter'}
+2911,5387__heart_13__light_9,3,3,2,2,2,1.73608244831,5387,heart,light,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,heart,light,"{'warm', 'cold'}"
+2931,2615__justification_9__rule_7,2,1,0,0,0,0.304654494374,2615,rule,justification,"{'NOUN', 'VERB'}",{'NOUN'},True,rule,justification,"{'clear', 'weak'}"
+2971,3547__result_2__expansion_6,2,1,1,0,0,0.459284002183,3547,result,expansion,"{'NOUN', 'VERB'}",{'NOUN'},True,result,expansion,{'strong'}
+3001,6838__children_14__picture_12,2,1,1,1,0,0.610488549796,6838,picture,children,"{'NOUN', 'VERB'}",{'NOUN'},True,picture,child,"{'sweet', 'bright', 'weak'}"
+3060,11798__business_22__run_20,1,1,1,1,1,0.619439968388,11798,run,business,"{'NOUN', 'VERB'}",{'NOUN'},True,run,business,"{'brilliant', 'smooth', 'clean'}"
+3103,4487__research_3__exercise_4,2,2,1,1,0,0.604570137086,4487,research,exercise,{'NOUN'},"{'NOUN', 'VERB'}",True,research,exercise,"{'brilliant', 'heavy'}"
+3121,4520__data_6__sources_4,1,1,1,1,1,0.632622058917,4520,sources,data,{'NOUN'},{'NOUN'},True,source,data,{'bright'}
+3145,6631__moment_31__movement_36,3,3,3,1,0,1.19403968139,6631,moment,movement,{'NOUN'},{'NOUN'},True,moment,movement,{'bitter'}
+3205,7086__cost_16__justification_2,2,1,0,0,0,0.324678175112,7086,cost,justification,"{'NOUN', 'VERB'}",{'NOUN'},True,cost,justification,{'clear'}
+3238,1576__law_7__position_5,2,2,1,1,0,0.549875283579,1576,position,law,"{'NOUN', 'VERB'}",{'NOUN'},True,position,law,"{'murky', 'soft'}"
+3246,6808__children_20__nature_16,2,2,1,1,0,0.660488549796,6808,nature,children,{'NOUN'},{'NOUN'},True,nature,child,"{'disturbing', 'sweet', 'cruel', 'divine', 'bitter', 'wild'}"
+3248,7089__party_5__bodies_6,2,2,1,1,1,0.760785921214,7089,party,bodies,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,party,body,"{'heavy', 'strong'}"
+3254,1767__profits_33__growth_30,2,1,1,1,0,0.605643977372,1767,growth,profits,{'NOUN'},{'NOUN'},True,growth,profit,"{'clear', 'strong', 'weak'}"
+3262,2105__margin_6__turnover_10,3,2,2,1,0,0.76340772925,2105,turnover,margin,{'NOUN'},{'NOUN'},True,turnover,margin,"{'heavy', 'strong', 'weak'}"
+3294,6439__attitudes_6__survey_2,1,1,0,0,0,0.268929743968,6439,survey,attitudes,"{'NOUN', 'VERB'}",{'NOUN'},True,survey,attitude,{'brilliant'}
+3310,4970__view_29__field_27,2,2,2,1,0,0.620907832321,4970,field,view,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,field,view,{'clear'}
+3329,3127__corner_19__fight_17,3,2,2,2,1,1.23449942618,3127,fight,corner,"{'NOUN', 'VERB'}",{'NOUN'},True,fight,corner,"{'rough', 'cold'}"
+3347,2563__murders_16__serving_13,3,2,1,0,0,0.53806019861,2563,serving,murders,"{'NOUN', 'VERB'}",{'NOUN'},True,serving,murder,{'cold'}
+3360,1694__manager_2__attitude_4,2,1,0,0,0,0.304654494374,1694,manager,attitude,{'NOUN'},{'NOUN'},True,manager,attitude,{'brilliant'}
+3386,6155__programmes_9__production_14,2,1,1,1,0,0.578854281965,6155,production,programmes,{'NOUN'},{'NOUN'},True,production,programme,"{'brilliant', 'clear', 'soft'}"
+3436,3518__decline_52__sense_45,2,1,0,0,0,0.368492446725,3518,sense,decline,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sense,decline,{'strong'}
+3461,5701__gun_2__threat_4,2,1,1,0,0,0.432158517043,5701,gun,threat,"{'NOUN', 'VERB'}",{'NOUN'},True,gun,threat,{'dangerous'}
+3473,3448__poverty_18__elimination_16,1,1,1,0,0,0.375837958795,3448,elimination,poverty,{'NOUN'},{'NOUN'},True,elimination,poverty,{'bitter'}
+3486,1059__drama_8__hand_4,1,0,0,0,0,0.185479867625,1059,hand,drama,"{'NOUN', 'VERB'}",{'NOUN'},True,hand,drama,{'strong'}
+3495,5848__dawn_22__prospect_20,3,3,3,3,0,1.88167655427,5848,prospect,dawn,{'NOUN'},"{'NOUN', 'VERB'}",True,prospect,dawn,"{'clear', 'dim'}"
+3546,12098__day_15__cover_13,3,1,1,0,0,0.695158021527,12098,cover,day,"{'NOUN', 'VERB'}",{'NOUN'},True,cover,day,"{'warm', 'bright'}"
+3569,524__account_6__role_9,1,1,0,0,0,0.357256243937,524,account,role,"{'NOUN', 'VERB'}",{'NOUN'},True,account,role,"{'brilliant', 'rough', 'clear'}"
+3594,11950__girl_4__pig_9,3,2,0,0,0,0.313550201554,11950,girl,pig,{'NOUN'},{'NOUN'},True,girl,pig,"{'mad', 'fat'}"
+3611,6513__access_15__support_19,2,1,1,0,0,0.425737145882,6513,access,support,{'NOUN'},"{'NOUN', 'VERB'}",True,access,support,{'clear'}
+3613,1269__shift_6__attitudes_12,2,1,1,1,0,0.533891035257,1269,attitudes,shift,{'NOUN'},"{'NOUN', 'VERB'}",True,attitude,shift,{'clear'}
+3616,3168__business_19__pain_22,3,2,2,2,0,1.20793570615,3168,business,pain,{'NOUN'},{'NOUN'},True,business,pain,{'bitter'}
+3620,103__current_15__rules_16,2,1,1,0,0,0.38252384674,103,current,rules,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,current,rule,{'weak'}
+3630,6178__price_24__fall_18,1,1,1,1,0,0.551962496434,6178,fall,price,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,fall,price,{'bitter'}
+3656,650__gas_20__cloud_17,2,1,1,1,0,0.67800719439,650,cloud,gas,{'NOUN'},"{'NOUN', 'VERB'}",True,cloud,gas,"{'heavy', 'dense', 'bright', 'cold'}"
+3685,2838__election_3__campaign_4,3,1,0,0,0,0.301505355478,2838,election,campaign,{'NOUN'},"{'NOUN', 'VERB'}",True,election,campaign,"{'brilliant', 'heated', 'smooth', 'heavy', 'strong', 'clean', 'bitter'}"
+3690,4866__cups_7__model_2,2,1,1,0,0,0.420669427016,4866,model,cups,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,model,cup,"{'hot', 'shallow'}"
+3698,6965__days_20__departure_8,3,0,0,0,0,0.174208617294,6965,days,departure,{'NOUN'},{'NOUN'},True,day,departure,{'bitter'}
+3708,6834__rationality_10__grounds_16,2,2,2,0,0,0.821810674236,6834,rationality,grounds,{'NOUN'},{'NOUN'},True,rationality,ground,{'cold'}
+3728,754__cost_10__stars_35,2,2,1,0,0,0.367788296535,754,cost,stars,"{'NOUN', 'VERB'}",{'NOUN'},True,cost,star,"{'clear', 'bitter'}"
+3729,6246__material_10__form_7,2,1,0,0,0,0.269238859608,6246,material,form,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,material,form,"{'dim', 'soft', 'smooth'}"
+3731,6180__consequence_4__view_8,3,3,1,1,0,0.848097218214,6180,consequence,view,{'NOUN'},"{'NOUN', 'VERB'}",True,consequence,view,"{'clear', 'bitter'}"
+3733,1749__development_10__team_11,1,1,1,0,0,0.443350009658,1749,development,team,"{'X', 'NOUN'}",{'NOUN'},True,development,team,{'bright'}
+3737,3736__requirements_28__impact_25,2,1,1,0,0,0.391318173743,3736,impact,requirements,{'NOUN'},{'NOUN'},True,impact,requirement,{'clear'}
+3753,6740__term_17__sense_14,3,2,1,1,0,0.752053611669,6740,sense,term,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sense,term,{'strong'}
+3760,6164__concept_6__progress_21,3,1,0,0,0,0.280526408725,6164,progress,concept,"{'NOUN', 'VERB'}",{'NOUN'},True,progress,concept,"{'brilliant', 'solid', 'clear', 'shallow'}"
+3781,2729__footpath_2__runs_4,2,2,2,1,0,0.796493055911,2729,footpath,runs,{'NOUN'},"{'NOUN', 'VERB'}",True,footpath,run,{'icy'}
+3790,1917__attacks_17__decision_25,2,2,2,0,0,0.643647613263,1917,attacks,decision,"{'NOUN', 'VERB'}",{'NOUN'},True,attack,decision,"{'brilliant', 'clear', 'shallow', 'clean', 'bitter'}"
+3791,1284__story_23__audiences_18,2,1,0,0,0,0.277461796459,1284,audiences,story,{'NOUN'},{'NOUN'},True,audience,story,{'brilliant'}
+3792,6271__roads_23__form_20,2,1,1,0,0,0.428941385165,6271,form,roads,"{'NOUN', 'VERB'}",{'NOUN'},True,form,road,{'smooth'}
+3805,1193__recommendations_23__candidate_15,1,1,0,0,0,0.291059592766,1193,candidate,recommendations,{'NOUN'},{'NOUN'},True,candidate,recommendation,"{'solid', 'clear', 'strong'}"
+3838,6589__narrative_34__progress_30,2,1,0,0,0,0.279911372362,6589,progress,narrative,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,progress,narrative,"{'brilliant', 'clear'}"
+3850,3127__health_22__fight_17,2,1,1,0,0,0.40457512248,3127,fight,health,"{'NOUN', 'VERB'}",{'NOUN'},True,fight,health,{'clean'}
+3878,8372__death_7__situations_13,2,1,1,0,0,0.423695076216,8372,situations,death,{'NOUN'},{'NOUN'},True,situation,death,{'bitter'}
+3918,6235__consequence_12__situations_4,1,0,0,0,0,0.162292337136,6235,consequence,situations,{'NOUN'},{'NOUN'},True,consequence,situation,{'bitter'}
+3922,820__simplicity_5__tenderness_7,2,1,1,1,0,0.662852827543,820,simplicity,tenderness,{'NOUN'},{'NOUN'},True,simplicity,tenderness,{'deep'}
+3955,6437__talks_27__applications_33,2,1,0,0,0,0.310150501857,6437,talks,applications,"{'NOUN', 'VERB'}",{'NOUN'},True,talk,application,{'smooth'}
+3992,7075__ideas_18__exchange_16,2,1,1,1,0,0.578854281965,7075,exchange,ideas,"{'NOUN', 'VERB'}",{'NOUN'},True,exchange,idea,{'weak'}
+4001,6790__transition_9__guide_4,2,1,1,0,0,0.555799850239,6790,guide,transition,"{'NOUN', 'VERB'}",{'NOUN'},True,guide,transition,{'rough'}
+4004,6870__tension_2__views_6,1,1,1,1,0,0.504554630774,6870,tension,views,{'NOUN'},"{'NOUN', 'VERB'}",True,tension,view,"{'clear', 'bitter'}"
+4056,8346__floor_15__catch_8,2,0,0,0,0,0.189702089847,8346,floor,catch,{'NOUN'},"{'NOUN', 'VERB'}",True,floor,catch,{'clean'}
+4085,1722__deal_29__facility_27,2,1,1,1,0,0.736710158187,1722,facility,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,facility,deal,{'brilliant'}
+4123,3459__people_22__clashes_19,1,1,0,0,0,0.372346209712,3459,clashes,people,{'NOUN'},"{'NOUN', 'VERB'}",True,clash,people,"{'heavy', 'bitter'}"
+4128,4558__research_5__models_10,1,0,0,0,0,0.203481758992,4558,models,research,{'NOUN'},{'NOUN'},True,model,research,{'shallow'}
+4131,4569__research_11__operations_10,2,2,1,0,0,0.360823270283,4569,operations,research,{'NOUN'},{'NOUN'},True,operation,research,{'brilliant'}
+4149,681__evidence_19__link_22,2,2,0,0,0,0.315758288187,681,evidence,link,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,evidence,link,{'murky'}
+4165,3006__prints_37__source_31,1,0,0,0,0,0.161833212282,3006,source,prints,{'NOUN'},{'NOUN'},True,source,print,{'bright'}
+4173,6661__future_17__shape_18,2,2,2,1,1,0.73522721289,6661,future,shape,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,future,shape,"{'bright', 'dim'}"
+4174,111__biography_3__calls_5,3,2,1,0,0,0.557812090573,111,biography,calls,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,biography,call,{'brilliant'}
+4206,7083__support_14__exchange_11,3,1,1,1,0,0.595492127112,7083,exchange,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,exchange,support,"{'heavy', 'warm'}"
+4211,3474__law_33__rule_31,2,1,1,0,0,0.436507003585,3474,rule,law,"{'NOUN', 'VERB'}",{'NOUN'},True,rule,law,"{'brilliant', 'murky', 'clear', 'weak'}"
+4223,2782__lake_44__stare_47,3,1,1,0,0,0.627225716538,2782,lake,stare,{'NOUN'},"{'NOUN', 'VERB'}",True,lake,stare,{'icy'}
+4238,2651__murder_29__situations_32,2,1,1,0,0,0.466889076932,2651,murder,situations,"{'NOUN', 'VERB'}",{'NOUN'},True,murder,situation,{'murky'}
+4242,823__demonstration_15__reaction_11,1,0,0,0,0,0.166055434504,823,reaction,demonstration,{'NOUN'},{'NOUN'},True,reaction,demonstration,"{'brilliant', 'heated', 'bitter'}"
+4259,3111__family_9__touches_5,2,1,1,1,1,0.722751124416,3111,touches,family,"{'NOUN', 'VERB'}",{'NOUN'},True,touch,family,{'brilliant'}
+4265,1019__price_7__guide_6,2,2,1,0,0,0.440213204142,1019,guide,price,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,guide,price,"{'brilliant', 'rough'}"
+4292,2585__law_6__structure_2,1,1,1,1,0,0.563616892266,2585,structure,law,"{'NOUN', 'VERB'}",{'NOUN'},True,structure,law,{'heavy'}
+4333,3158__punishment_3__term_9,1,0,0,0,0,0.141048442678,3158,punishment,term,{'NOUN'},"{'NOUN', 'VERB'}",True,punishment,term,{'strong'}
+4343,3535__tackle_9__forces_2,2,1,1,0,0,0.410762887794,3535,forces,tackle,"{'X', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,force,tackle,{'weak'}
+4351,1465__coalition_58__growth_31,2,1,0,0,0,0.384156674618,1465,growth,coalition,{'NOUN'},{'NOUN'},True,growth,coalition,{'clear'}
+4363,2800__sermons_9__stone_11,3,3,3,3,1,2.09723529726,2800,stone,sermons,{'NOUN'},{'NOUN'},True,stone,sermon,{'cold'}
+4366,7096__lines_19__guide_14,2,2,1,0,0,0.695158021527,7096,guide,lines,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,guide,line,{'bright'}
+4380,1958__sitting_37__patch_40,2,1,0,0,0,0.294253042053,1958,sitting,patch,"{'NOUN', 'VERB'}",{'NOUN'},True,sitting,patch,{'bright'}
+4381,3731__agenda_23__fields_26,2,1,1,0,0,0.385252966738,3731,agenda,fields,{'NOUN'},"{'NOUN', 'VERB'}",True,agenda,field,{'clear'}
+4391,1734__communication_11__channels_9,2,1,1,1,1,0.672803965502,1734,communication,channels,{'NOUN'},{'NOUN'},True,communication,channel,{'deep'}
+4405,820__simplicity_5__account_11,3,3,1,0,0,0.517419999393,820,account,simplicity,"{'NOUN', 'VERB'}",{'NOUN'},True,account,simplicity,{'brilliant'}
+4406,516__row_22__attack_25,2,2,0,0,0,0.380034567503,516,row,attack,"{'NOUN', 'VERB'}","{'X', 'NOUN', 'VERB'}",True,row,attack,{'heated'}
+4450,7058__advances_12__coordination_23,3,0,0,0,0,0.17595248864,7058,advances,coordination,"{'NOUN', 'VERB'}",{'NOUN'},True,advance,coordination,{'smooth'}
+4463,8159__name_13__loss_6,2,2,1,0,0,0.376772639566,8159,name,loss,"{'NOUN', 'VERB'}",{'NOUN'},True,name,loss,"{'clear', 'shallow'}"
+4464,1223__development_6__plot_5,3,2,1,1,1,0.659962887533,1223,plot,development,"{'NOUN', 'VERB'}","{'X', 'NOUN'}",True,plot,development,"{'shallow', 'weak'}"
+4486,147__technique_20__painter_18,1,1,0,0,0,0.344930713493,147,painter,technique,{'NOUN'},{'NOUN'},True,painter,technique,{'brilliant'}
+4488,750__roof_8__barn_7,3,2,2,1,1,0.967448203496,750,barn,roof,{'NOUN'},{'NOUN'},True,barn,roof,"{'warm', 'cold'}"
+4496,1883__government_36__structure_37,2,1,1,1,0,0.633984961622,1883,government,structure,{'NOUN'},"{'NOUN', 'VERB'}",True,government,structure,{'heavy'}
+4505,8346__park_2__catch_8,1,0,0,0,0,0.189702089847,8346,park,catch,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,park,catch,{'clean'}
+4527,515__ideas_5__exercise_25,0,0,0,0,0,0.191919749572,515,exercise,ideas,"{'NOUN', 'VERB'}",{'NOUN'},True,exercise,idea,{'brilliant'}
+4548,3130__care_51__community_54,1,1,1,1,0,0.503606696706,3130,care,community,"{'NOUN', 'VERB'}",{'NOUN'},True,care,community,{'shallow'}
+4551,12171__laugh_1__trick_6,2,0,0,0,0,0.148512667992,12171,laugh,trick,"{'NOUN', 'VERB'}",{'NOUN'},True,laugh,trick,{'brilliant'}
+4555,11823__voices_6__stand_10,3,3,0,0,0,0.610983782408,11823,stand,voices,"{'NOUN', 'VERB'}",{'NOUN'},True,stand,voice,{'clear'}
+4579,1367__soil_3__force_10,3,2,2,0,0,0.589431602745,1367,force,soil,"{'X', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,force,soil,{'weak'}
+4584,7088__papers_32__support_29,2,1,1,1,0,0.627733779924,7088,support,papers,"{'NOUN', 'VERB'}",{'NOUN'},True,support,paper,"{'heavy', 'soft'}"
+4586,6431__science_27__nature_24,3,2,2,0,0,0.631364426793,6431,nature,science,{'NOUN'},{'NOUN'},True,nature,science,{'sweet'}
+4596,841__engine_10__seats_13,3,1,1,0,0,0.685818282465,841,engine,seats,{'NOUN'},{'NOUN'},True,engine,seat,{'warm'}
+4597,2731__isolation_22__sense_20,2,2,1,1,1,0.717035991604,2731,sense,isolation,"{'NOUN', 'VERB'}",{'NOUN'},True,sense,isolation,{'deep'}
+4601,5352__words_16__read_12,1,1,1,1,0,0.53878425397,5352,read,words,"{'NOUN', 'VERB'}",{'NOUN'},True,read,word,{'brilliant'}
+4611,6820__child_20__image_15,3,2,1,1,0,0.699241162769,6820,image,child,{'NOUN'},{'NOUN'},True,image,child,"{'sweet', 'bright', 'dim', 'weak'}"
+4624,838__publicity_12__campaigns_13,1,1,1,1,0,0.504554630774,838,publicity,campaigns,{'NOUN'},{'NOUN'},True,publicity,campaign,{'heavy'}
+4631,3029__prospect_28__closing_30,2,1,0,0,0,0.361645743326,3029,prospect,closing,{'NOUN'},"{'NOUN', 'VERB'}",True,prospect,closing,{'brilliant'}
+4644,2941__party_8__fall_10,2,1,1,1,1,0.679489270806,2941,fall,party,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,fall,party,{'bitter'}
+4663,3164__language_17__shapes_23,3,2,1,1,0,0.685243460384,3164,language,shapes,{'NOUN'},"{'NOUN', 'VERB'}",True,language,shape,"{'bright', 'dim'}"
+4688,1501__blame_5__bulk_2,3,3,3,2,1,1.58988285082,1501,bulk,blame,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,bulk,blame,{'heavy'}
+4689,5387__pastry_7__light_9,2,2,1,1,1,0.656701472316,5387,pastry,light,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,pastry,light,{'warm'}
+4691,6365__girl_3__stage_7,1,1,1,1,0,0.509988493854,6365,girl,stage,{'NOUN'},"{'NOUN', 'VERB'}",True,girl,stage,{'warm'}
+4693,99__surprise_19__decision_6,1,1,1,0,0,0.378663300407,99,surprise,decision,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,surprise,decision,"{'brilliant', 'bitter'}"
+4695,6679__match_24__struggle_19,3,1,1,0,0,0.38252384674,6679,struggle,match,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,struggle,match,{'heated'}
+4710,2557__affects_19__calculations_21,2,1,1,1,0,0.627733779924,2557,affects,calculations,"{'NOUN', 'VERB'}",{'NOUN'},True,affect,calculation,{'cold'}
+4755,1858__demonstrations_6__resistance_3,2,1,0,0,0,0.284882850224,1858,resistance,demonstrations,"{'X', 'NOUN'}",{'NOUN'},True,resistance,demonstration,{'bitter'}
+4756,14106__costs_4__cut_3,1,1,1,1,1,0.720289409644,14106,cut,costs,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,cut,cost,{'clear'}
+4761,602__job_11__view_9,2,2,1,1,0,0.61553660232,602,job,view,{'NOUN'},"{'NOUN', 'VERB'}",True,job,view,{'sweet'}
+4775,3567__danger_14__framework_18,2,2,1,1,0,0.684377549799,3567,danger,framework,{'NOUN'},{'NOUN'},True,danger,framework,{'clear'}
+4786,441__playing_6__fire_8,3,2,1,1,1,0.853699911723,441,playing,fire,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,playing,fire,"{'brilliant', 'heavy'}"
+4795,7031__parliament_2__campaign_9,1,1,1,0,0,0.40457512248,7031,parliament,campaign,{'NOUN'},"{'NOUN', 'VERB'}",True,parliament,campaign,"{'heated', 'strong', 'weak'}"
+4806,6876__child_13__talking_9,1,1,0,0,0,0.293788712764,6876,child,talking,{'NOUN'},"{'NOUN', 'VERB'}",True,child,talking,{'sweet'}
+4817,1059__competition_14__drama_8,2,1,0,0,0,0.35194153387,1059,competition,drama,{'NOUN'},{'NOUN'},True,competition,drama,"{'brilliant', 'heavy', 'bitter', 'strong'}"
+4820,3560__issue_7__reactions_2,1,0,0,0,0,0.151840031678,3560,reactions,issue,{'NOUN'},"{'NOUN', 'VERB'}",True,reaction,issue,"{'heated', 'bitter'}"
+4831,703__management_9__stress_8,2,1,1,1,1,0.682883394413,703,stress,management,"{'NOUN', 'VERB'}",{'NOUN'},True,stress,management,{'heavy'}
+4838,6628__circumstance_16__relation_8,1,1,0,0,0,0.344930713493,6628,circumstance,relation,{'NOUN'},{'NOUN'},True,circumstance,relation,"{'bitter', 'smooth'}"
+4840,5710__sea_23__split_26,3,3,2,1,1,1.28974629586,5710,sea,split,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sea,split,{'bitter'}
+4863,4919__water_15__blow_10,2,2,1,1,0,0.654075162843,4919,blow,water,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,blow,water,"{'heavy', 'bitter', 'clean'}"
+4868,6870__knowledge_18__views_6,2,1,1,0,0,0.404481110325,6870,knowledge,views,{'NOUN'},"{'NOUN', 'VERB'}",True,knowledge,view,"{'clear', 'bitter'}"
+4873,1864__pattern_5__sufferings_13,2,2,0,0,0,0.294292193717,1864,sufferings,pattern,{'NOUN'},"{'NOUN', 'VERB'}",True,suffering,pattern,{'heavy'}
+4878,824__history_18__piece_16,2,2,1,1,0,0.718912958914,824,piece,history,"{'X', 'NOUN', 'VERB'}",{'NOUN'},True,piece,history,"{'solid', 'bright'}"
+4889,3507__government_29__role_26,1,1,1,1,1,0.639191860351,3507,role,government,{'NOUN'},{'NOUN'},True,role,government,"{'murky', 'clear'}"
+4902,3150__affirmation_6__character_12,1,1,0,0,0,0.293492431223,3150,character,affirmation,{'NOUN'},{'NOUN'},True,character,affirmation,"{'sweet', 'strong'}"
+4919,3127__service_23__corner_19,3,2,1,0,0,0.550551099068,3127,corner,service,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,corner,service,"{'warm', 'shallow', 'bright', 'cold'}"
+4927,1200__entertainment_26__centre_27,2,1,1,1,1,0.630271497969,1200,entertainment,centre,{'NOUN'},{'NOUN'},True,entertainment,centre,{'soft'}
+4995,6190__management_21__attitudes_19,2,2,1,0,0,0.516474372321,6190,attitudes,management,{'NOUN'},{'NOUN'},True,attitude,management,"{'brilliant', 'clear', 'soft'}"
+5027,145__people_15__portraits_13,3,1,1,1,0,0.492585015528,145,portraits,people,{'NOUN'},"{'NOUN', 'VERB'}",True,portrait,people,{'bitter'}
+5039,6287__structure_22__introduction_8,1,1,0,0,0,0.323102914744,6287,structure,introduction,"{'NOUN', 'VERB'}",{'NOUN'},True,structure,introduction,"{'solid', 'smooth'}"
+5055,147__drawing_22__technique_20,1,1,1,1,0,0.504554630774,147,technique,drawing,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,technique,drawing,{'rough'}
+5059,6403__preserve_13__character_16,2,2,1,1,1,0.75706915,6403,preserve,character,"{'NOUN', 'VERB'}",{'NOUN'},True,preserve,character,{'sweet'}
+5069,2698__fraud_30__deposits_22,2,1,1,0,0,0.429842028341,2698,deposits,fraud,{'NOUN'},{'NOUN'},True,deposit,fraud,{'heavy'}
+5079,6202__consultants_11__peaks_2,2,2,1,0,0,0.384260430969,6202,consultants,peaks,{'NOUN'},{'NOUN'},True,consultant,peak,{'bright'}
+5108,1462__studies_6__conduct_5,1,1,1,0,0,0.429842028341,1462,conduct,studies,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,conduct,study,{'brilliant'}
+5112,4519__data_16__access_11,1,1,0,0,0,0.451285901249,4519,access,data,{'NOUN'},{'NOUN'},True,access,data,{'clear'}
+5141,7233__spear_12__tail_9,2,2,2,0,0,0.557369911257,7233,spear,tail,"{'NOUN', 'VERB'}",{'NOUN'},True,spear,tail,{'bright'}
+5188,1852__commanders_18__network_4,2,2,1,1,0,0.652809239867,1852,commanders,network,{'NOUN'},{'NOUN'},True,commander,network,{'brilliant'}
+5190,6583__truth_39__power_43,3,1,1,1,0,0.444390585015,6583,truth,power,{'NOUN'},"{'NOUN', 'VERB'}",True,truth,power,"{'murky', 'bitter'}"
+5192,7017__sense_13__role_5,3,2,0,0,0,0.321105996074,7017,sense,role,"{'NOUN', 'VERB'}",{'NOUN'},True,sense,role,{'strong'}
+5229,7033__style_15__team_28,1,1,0,0,0,0.335757788081,7033,style,team,{'NOUN'},{'NOUN'},True,style,team,{'brilliant'}
+5233,6306__suffering_28__isolation_30,1,1,1,0,0,0.38252384674,6306,suffering,isolation,"{'NOUN', 'VERB'}",{'NOUN'},True,suffering,isolation,"{'deep', 'bitter'}"
+5249,6333__sentence_3__stem_4,3,3,2,2,1,1.3291253726,6333,sentence,stem,{'NOUN'},"{'NOUN', 'VERB'}",True,sentence,stem,{'weak'}
+5254,6350__model_9__detail_5,1,1,1,0,0,0.463548546958,6350,detail,model,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,detail,model,{'shallow'}
+5300,6936__children_16__line_12,2,1,0,0,0,0.280526408725,6936,line,children,"{'NOUN', 'VERB'}",{'NOUN'},True,line,child,{'bright'}
+5301,2641__line_8__approach_2,2,2,1,0,0,0.443450046956,2641,approach,line,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,approach,line,{'solid'}
+5323,1781__profit_4__rise_5,1,1,0,0,0,0.305548836532,1781,profit,rise,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,profit,rise,"{'clear', 'weak'}"
+5336,1226__songs_10__matches_7,3,2,2,1,0,0.821355768864,1226,songs,matches,{'NOUN'},"{'NOUN', 'VERB'}",True,song,match,{'clean'}
+5355,143__writing_12__scores_14,1,1,1,1,0,0.504554630774,143,writing,scores,"{'NOUN', 'VERB'}",{'NOUN'},True,writing,score,"{'brilliant', 'clean'}"
+5392,1852__battle_21__commanders_18,2,2,1,0,0,0.452009083572,1852,commanders,battle,{'NOUN'},"{'NOUN', 'VERB'}",True,commander,battle,{'brilliant'}
+5398,1462__region_16__steps_2,2,2,1,0,0,0.465546652991,1462,region,steps,{'NOUN'},"{'NOUN', 'VERB'}",True,region,step,{'icy'}
+5412,2604__claim_8__defence_2,2,2,1,0,0,0.483140881483,2604,defence,claim,{'NOUN'},"{'NOUN', 'VERB'}",True,defence,claim,{'solid'}
+5427,618__mouth_7__lies_9,3,2,2,0,0,0.724365793138,618,mouth,lies,{'NOUN'},"{'NOUN', 'VERB'}",True,mouth,lie,{'soft'}
+5434,6612__theory_52__divorce_50,3,2,2,1,0,0.940752199878,6612,divorce,theory,"{'NOUN', 'VERB'}",{'NOUN'},True,divorce,theory,{'brilliant'}
+5439,917__ice_29__clothing_26,3,3,3,2,1,1.57565271681,917,clothing,ice,{'NOUN'},{'NOUN'},True,clothing,ice,"{'heavy', 'bright', 'cold', 'clean', 'warm'}"
+5463,177__personality_41__force_34,3,3,1,1,0,0.692522696799,177,force,personality,"{'X', 'NOUN', 'VERB'}",{'NOUN'},True,force,personality,"{'strong', 'weak'}"
+5490,3739__product_4__discussion_7,2,2,1,1,0,0.610344046232,3739,product,discussion,{'NOUN'},{'NOUN'},True,product,discussion,{'heated'}
+5492,7114__dust_28__cloud_26,2,1,1,1,0,0.80099487591,7114,cloud,dust,{'NOUN'},"{'NOUN', 'VERB'}",True,cloud,dust,"{'icy', 'dense', 'bright', 'cold'}"
+5494,1322__responses_26__role_16,2,2,1,0,0,0.442332034534,1322,role,responses,{'NOUN'},{'NOUN'},True,role,response,"{'brilliant', 'clear', 'strong'}"
+5502,7029__outcome_35__recovery_44,2,1,0,0,0,0.347635391534,7029,outcome,recovery,{'NOUN'},"{'ADJ', 'NOUN'}",True,outcome,recovery,"{'clear', 'soft', 'smooth'}"
+5515,6311__evidence_2__association_5,1,1,1,0,0,0.38252384674,6311,evidence,association,"{'NOUN', 'VERB'}",{'NOUN'},True,evidence,association,"{'clear', 'strong', 'weak'}"
+5516,5737__appetite_12__horse_15,3,3,3,2,0,1.31876162203,5737,appetite,horse,{'NOUN'},{'NOUN'},True,appetite,horse,"{'strong', 'weak'}"
+5535,2899__people_17__appeal_14,1,1,1,1,0,0.530410464832,2899,appeal,people,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,appeal,people,{'warm'}
+5554,3581__party_8__support_10,2,2,1,1,0,0.611217772195,3581,support,party,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,support,party,{'heavy'}
+5563,505__improvisation_32__deal_30,3,2,2,1,1,0.967448203496,505,deal,improvisation,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,improvisation,{'brilliant'}
+5574,1850__leadership_33__run_29,1,1,1,0,0,0.38252384674,1850,run,leadership,"{'NOUN', 'VERB'}",{'NOUN'},True,run,leadership,{'brilliant'}
+5579,7034__party_16__control_18,2,1,1,1,0,0.514500474338,7034,party,control,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,party,control,{'brilliant'}
+5581,6931__child_26__conception_23,2,2,1,1,1,0.808989644903,6931,conception,child,{'NOUN'},{'NOUN'},True,conception,child,{'brilliant'}
+5599,7005__words_11__impression_21,3,0,0,0,0,0.185479867625,7005,words,impression,{'NOUN'},{'NOUN'},True,word,impression,"{'warm', 'clear', 'strong', 'cold'}"
+5704,2587__arguments_2__focus_6,1,1,1,0,0,0.38252384674,2587,arguments,focus,{'NOUN'},"{'NOUN', 'VERB'}",True,argument,focus,"{'strong', 'soft'}"
+5776,3546__run_29__counter_30,2,2,1,1,0,0.591465880232,3546,run,counter,"{'NOUN', 'VERB'}","{'ADV', 'NOUN', 'VERB'}",True,run,counter,{'clean'}
+5780,6437__scientist_24__image_19,2,1,1,0,0,0.39918290653,6437,image,scientist,{'NOUN'},{'NOUN'},True,image,scientist,{'bright'}
+5782,147__life_26__drawing_22,3,1,0,0,0,0.395264764503,147,drawing,life,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,drawing,life,{'rough'}
+5799,5297__hair_16__gold_15,2,2,1,1,1,0.745324172463,5297,gold,hair,"{'ADJ', 'NOUN'}",{'NOUN'},True,gold,hair,"{'shiny', 'bright'}"
+5811,3081__market_18__feel_23,2,1,0,0,0,0.277461796459,3081,market,feel,{'NOUN'},"{'NOUN', 'VERB'}",True,market,feel,"{'soft', 'smooth'}"
+5813,580__valley_8__walls_9,3,3,3,1,1,1.35692434505,580,valley,walls,{'NOUN'},{'NOUN'},True,valley,wall,"{'deep', 'warm', 'shallow', 'cold'}"
+5843,12801__people_2__running_4,2,1,1,0,0,0.486910655624,12801,people,running,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,people,running,{'rough'}
+5851,4532__questions_9__deal_13,1,0,0,0,0,0.153615485052,4532,deal,questions,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,deal,question,"{'brilliant', 'murky', 'clean'}"
+5852,1901__block_16__building_11,3,3,2,2,1,1.40432683635,1901,building,block,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,building,block,"{'solid', 'dense', 'cold'}"
+5863,3736__development_31__impact_25,1,1,0,0,0,0.398598697172,3736,impact,development,{'NOUN'},"{'X', 'NOUN'}",True,impact,development,{'clear'}
+5878,3507__government_29__reduction_23,1,1,0,0,0,0.344930713493,3507,reduction,government,{'NOUN'},{'NOUN'},True,reduction,government,"{'heavy', 'clear'}"
+5934,8092__poverty_35__situations_32,2,2,1,0,0,0.398960261442,8092,situations,poverty,{'NOUN'},{'NOUN'},True,situation,poverty,{'bitter'}
+5936,3490__blocks_18__environment_7,2,1,0,0,0,0.311940285107,3490,blocks,environment,{'NOUN'},{'NOUN'},True,block,environment,{'cold'}
+5955,492__team_4__health_7,2,2,0,0,0,0.335197268914,492,team,health,{'NOUN'},{'NOUN'},True,team,health,{'clean'}
+5967,2557__killers_24__calculations_21,2,1,1,0,0,0.408613021706,2557,calculations,killers,{'NOUN'},{'NOUN'},True,calculation,killer,{'cold'}
+5976,3445__programmes_30__form_22,1,1,1,0,0,0.41180720609,3445,form,programmes,"{'NOUN', 'VERB'}",{'NOUN'},True,form,programme,{'soft'}
+5979,6405__cover_8__subjects_10,1,1,1,1,0,0.504554630774,6405,subjects,cover,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,subject,cover,{'bright'}
+5986,3029__prospect_28__trouble_18,2,2,1,0,0,0.428921463893,3029,trouble,prospect,"{'NOUN', 'VERB'}",{'NOUN'},True,trouble,prospect,{'bitter'}
+5991,2744__grass_17__sheets_14,3,3,3,2,1,1.56508367667,2744,sheets,grass,{'NOUN'},{'NOUN'},True,sheet,grass,"{'icy', 'rough', 'soft', 'smooth'}"
+6010,1852__institutions_10__network_4,1,1,1,1,1,0.792421444276,1852,institutions,network,{'NOUN'},{'NOUN'},True,institution,network,"{'strong', 'weak'}"
+6040,1190__structure_7__sound_6,2,2,2,1,1,0.785522681123,1190,sound,structure,"{'ADV', 'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sound,structure,{'smooth'}
+6054,3604__opinion_39__body_37,2,2,1,1,1,0.712748391524,3604,body,opinion,{'NOUN'},{'NOUN'},True,body,opinion,"{'strong', 'clean'}"
+6057,1508__hand_39__living_37,3,2,1,1,1,0.810665985787,1508,living,hand,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,living,hand,{'clean'}
+6065,6869__account_8__leaves_9,2,1,1,1,0,0.531665020385,6869,account,leaves,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,account,leaf,"{'brilliant', 'rough', 'clear', 'bitter'}"
+6086,6662__process_25__closure_18,2,2,1,0,0,0.382388187455,6662,closure,process,{'NOUN'},"{'NOUN', 'VERB'}",True,closure,process,{'smooth'}
+6098,2706__shop_16__front_13,2,2,0,0,0,0.430680325281,2706,front,shop,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,front,shop,{'warm'}
+6102,6431__attempts_20__change_22,2,1,1,0,0,0.407857499647,6431,attempts,change,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,attempt,change,{'clear'}
+6126,6306__material_47__world_48,2,1,1,1,1,0.654822237927,6306,material,world,"{'ADJ', 'NOUN'}",{'NOUN'},True,material,world,{'icy'}
+6137,6753__counts_9__balance_5,1,1,0,0,0,0.323102914744,6753,balance,counts,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,balance,count,{'rough'}
+6140,152__time_31__assessment_21,1,1,1,0,0,0.41180720609,152,assessment,time,{'NOUN'},"{'NOUN', 'VERB'}",True,assessment,time,{'rough'}
+6172,6855__consequences_35__blame_32,1,1,1,1,0,0.504554630774,6855,blame,consequences,"{'NOUN', 'VERB'}",{'NOUN'},True,blame,consequence,{'heavy'}
+6213,1723__input_25__box_26,2,2,2,2,1,1.02961588592,1723,input,box,{'NOUN'},"{'NOUN', 'VERB'}",True,input,box,{'heavy'}
+6220,3544__murder_14__sector_18,3,3,2,1,0,1.3186602596,3544,murder,sector,"{'NOUN', 'VERB'}",{'NOUN'},True,murder,sector,{'cold'}
+6241,2659__alternative_2__approaches_3,2,1,1,1,0,0.625303863946,2659,alternative,approaches,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,alternative,approach,{'soft'}
+6243,193__world_27__courses_24,2,1,1,0,0,0.555799850239,193,courses,world,{'NOUN'},{'NOUN'},True,course,world,{'icy'}
+6254,3695__people_2__picture_13,1,1,0,0,0,0.323102914744,3695,picture,people,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,picture,people,"{'sweet', 'bright'}"
+6257,2994__intervals_22__reflectors_19,2,1,1,0,0,0.459284002183,2994,reflectors,intervals,{'NOUN'},{'NOUN'},True,reflector,interval,{'bright'}
+6258,6834__distinction_19__grounds_16,3,2,2,0,0,0.925829184886,6834,grounds,distinction,{'NOUN'},{'NOUN'},True,ground,distinction,"{'murky', 'rough', 'clear', 'deep', 'clean'}"
+6265,6809__women_14__role_17,2,1,0,0,0,0.317450542314,6809,women,role,{'NOUN'},{'NOUN'},True,woman,role,"{'brilliant', 'shallow', 'strong'}"
+6305,2625__note_15__strike_12,3,2,1,1,1,0.752053611669,2625,strike,note,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,strike,note,{'bitter'}
+6306,2539__stands_38__rule_37,2,1,1,1,0,0.664578123555,2539,rule,stands,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,rule,stand,{'clear'}
+6307,6850__youth_8__approach_4,2,1,1,0,0,0.425737145882,6850,approach,youth,"{'NOUN', 'VERB'}",{'NOUN'},True,approach,youth,{'warm'}
+6314,8139__runway_41__run_31,2,1,0,0,0,0.306512753827,8139,run,runway,"{'NOUN', 'VERB'}",{'NOUN'},True,run,runway,{'icy'}
+6331,5136__oil_9__drum_10,1,1,1,0,0,0.443350009658,5136,drum,oil,{'NOUN'},{'NOUN'},True,drum,oil,{'heavy'}
+6333,1289__art_13__language_10,3,3,2,2,1,1.71219588463,1289,language,art,{'NOUN'},"{'NOUN', 'VERB'}",True,language,art,"{'brilliant', 'clean'}"
+6340,2615__crime_31__element_28,2,2,1,1,0,0.738271137219,2615,element,crime,{'NOUN'},{'NOUN'},True,element,crime,{'heavy'}
+6350,3681__theories_5__advocates_2,3,2,1,0,0,0.537564672564,3681,advocates,theories,{'NOUN'},{'NOUN'},True,advocate,theory,{'brilliant'}
+6360,3531__involvement_17__partnership_14,2,0,0,0,0,0.157837707274,3531,partnership,involvement,{'NOUN'},{'NOUN'},True,partnership,involvement,"{'deep', 'strong'}"
+6361,2136__attempt_14__rise_16,2,2,1,1,0,0.616830083151,2136,attempt,rise,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,attempt,rise,{'clear'}
+6362,14370__book_28__sitting_29,3,2,1,1,1,0.752053611669,14370,book,sitting,{'NOUN'},"{'NOUN', 'VERB'}",True,book,sitting,{'bright'}
+6382,7235__blood_4__fountain_2,3,3,2,2,1,1.21829126263,7235,fountain,blood,{'NOUN'},{'NOUN'},True,fountain,blood,{'clear'}
+6403,1861__trees_27__measures_2,2,2,0,0,0,0.302321090092,1861,measures,trees,"{'NOUN', 'VERB'}",{'NOUN'},True,measure,tree,"{'rough', 'strong'}"
+6408,3735__reference_18__fields_15,2,1,0,0,0,0.279391426256,3735,fields,reference,"{'NOUN', 'VERB'}",{'NOUN'},True,field,reference,"{'clear', 'bright'}"
+6428,3744__data_27__structures_28,3,2,1,1,1,0.752053611669,3744,data,structures,{'NOUN'},{'NOUN'},True,data,structure,"{'solid', 'heavy'}"
+6454,147__response_37__subject_41,2,2,1,1,0,0.586667032238,147,response,subject,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,response,subject,"{'heated', 'heavy'}"
+6496,6439__teaching_45__approach_46,3,2,1,1,1,0.707661167605,6439,teaching,approach,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,teaching,approach,{'weak'}
+6499,3688__example_2__approach_8,2,0,0,0,0,0.149218833197,3688,example,approach,{'NOUN'},"{'NOUN', 'VERB'}",True,example,approach,{'solid'}
+6531,7042__politicians_22__deal_20,2,2,1,0,0,0.452728336156,7042,deal,politicians,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,politician,"{'brilliant', 'weak', 'clean'}"
+6542,3441__rise_21__conditions_13,1,1,1,1,0,0.484690843094,3441,conditions,rise,{'NOUN'},"{'NOUN', 'VERB'}",True,condition,rise,{'clear'}
+6571,6790__youth_20__stages_14,2,1,1,1,1,0.660718485287,6790,stages,youth,{'NOUN'},{'NOUN'},True,stage,youth,{'warm'}
+6592,1472__routine_6__exercise_7,2,1,1,1,1,0.703250952819,1472,routine,exercise,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,routine,exercise,{'brilliant'}
+6618,2939__week_20__campaign_24,2,1,1,0,0,0.354076760908,2939,week,campaign,{'NOUN'},"{'NOUN', 'VERB'}",True,week,campaign,"{'rough', 'bitter', 'heavy'}"
+6624,3647__leaders_38__support_34,1,1,1,0,0,0.425737145882,3647,support,leaders,"{'NOUN', 'VERB'}",{'NOUN'},True,support,leader,{'clear'}
+6630,6611__history_43__subject_41,2,2,1,1,0,0.622551864661,6611,subject,history,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,subject,history,"{'murky', 'bright'}"
+6633,1794__shares_3__rise_19,2,1,1,0,0,0.375934180409,1794,rise,shares,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,rise,share,{'weak'}
+6657,1556__play_8__game_11,2,1,1,0,0,0.373283351492,1556,game,play,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,game,play,"{'brilliant', 'clean', 'smooth'}"
+6659,3535__unemployment_11__forces_2,2,1,0,0,0,0.325895805053,3535,unemployment,forces,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,unemployment,force,{'weak'}
+6694,1917__operation_21__decision_25,2,1,1,0,0,0.428469340079,1917,operation,decision,{'NOUN'},{'NOUN'},True,operation,decision,"{'brilliant', 'murky', 'smooth', 'clean'}"
+6695,3734__terms_16__fields_21,1,0,0,0,0,0.185479867625,3734,terms,fields,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,term,field,"{'rough', 'murky'}"
+6706,123__ambition_5__rule_7,2,1,1,1,1,0.679489270806,123,ambition,rule,{'NOUN'},"{'NOUN', 'VERB'}",True,ambition,rule,{'clear'}
+6769,858__home_3__front_4,2,1,1,1,0,0.682883394413,858,home,front,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,home,front,"{'heated', 'warm', 'cold'}"
+6806,6715__distinction_11__fruit_14,2,2,0,0,0,0.346517379111,6715,distinction,fruit,{'NOUN'},{'NOUN'},True,distinction,fruit,"{'clear', 'clean'}"
+6850,5672__voice_3__cold_5,2,2,1,1,0,0.81870571499,5672,voice,cold,{'NOUN'},"{'ADV', 'ADJ', 'NOUN'}",True,voice,cold,"{'bitter', 'icy'}"
+6871,6357__period_10__crisis_12,2,1,1,1,0,0.605455767239,6357,period,crisis,{'NOUN'},"{'X', 'NOUN'}",True,period,crisis,{'bitter'}
+6892,3566__debate_5__tone_2,2,2,1,1,0,0.771373197401,3566,tone,debate,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,tone,debate,"{'heated', 'warm', 'bitter'}"
+6915,4820__steel_43__deal_39,2,2,1,0,0,0.446638566208,4820,deal,steel,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,steel,"{'solid', 'weak', 'clean'}"
+6928,3080__sales_81__stream_78,2,1,1,1,0,0.647148852828,3080,stream,sales,"{'NOUN', 'VERB'}",{'NOUN'},True,stream,sale,"{'weak', 'clean'}"
+6940,1374__critique_32__culture_36,2,2,1,0,0,0.588682684986,1374,critique,culture,{'NOUN'},{'NOUN'},True,critique,culture,"{'brilliant', 'bitter'}"
+6945,1850__life_20__run_29,2,1,1,0,0,0.363235357821,1850,life,run,{'NOUN'},"{'NOUN', 'VERB'}",True,life,run,"{'smooth', 'clean'}"
+6978,7030__basis_2__recovery_4,2,2,1,1,0,0.543273551978,7030,basis,recovery,{'NOUN'},"{'ADJ', 'NOUN'}",True,basis,recovery,{'clear'}
+6983,818__mother_2__contrast_5,3,1,1,0,0,0.416266590556,818,mother,contrast,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,mother,contrast,{'bitter'}
+6988,1907__building_10__walls_13,2,1,1,0,0,0.504481110325,1907,building,walls,"{'NOUN', 'VERB'}",{'NOUN'},True,building,wall,"{'solid', 'cold', 'ugly', 'damaged', 'warm', 'weak'}"
+6991,4549__estimate_27__offers_18,2,1,1,1,0,0.603850969182,4549,offers,estimate,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,offer,estimate,{'solid'}
+7040,3641__examples_2__line_5,2,2,1,1,0,0.549875283579,3641,examples,line,{'NOUN'},"{'NOUN', 'VERB'}",True,example,line,"{'solid', 'bright'}"
+7054,1876__people_36__freedom_32,2,1,1,1,0,0.605455767239,1876,freedom,people,{'NOUN'},"{'NOUN', 'VERB'}",True,freedom,people,"{'brilliant', 'sweet'}"
+7057,6428__evidence_3__change_5,2,2,1,1,0,0.569187867547,6428,evidence,change,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,evidence,change,"{'deep', 'clear'}"
+7058,2735__sky_40__filling_37,3,2,2,1,1,1.20446698459,2735,filling,sky,"{'NOUN', 'VERB'}",{'NOUN'},True,filling,sky,{'cold'}
+7072,12846__family_10__ties_11,1,1,1,1,0,0.531665020385,12846,family,ties,{'NOUN'},"{'NOUN', 'VERB'}",True,family,tie,"{'bitter', 'bright'}"
+7116,6668__future_3__direction_4,3,2,1,1,0,0.536563506437,6668,future,direction,"{'ADJ', 'NOUN'}","{'X', 'NOUN'}",True,future,direction,{'heavy'}
+7120,8346__corridor_20__catch_8,1,0,0,0,0,0.189702089847,8346,corridor,catch,{'NOUN'},"{'NOUN', 'VERB'}",True,corridor,catch,{'clean'}
+7121,598__road_11__bridge_7,1,1,1,0,0,0.429842028341,598,road,bridge,{'NOUN'},"{'NOUN', 'VERB'}",True,road,bridge,"{'scenic', 'cold'}"
+7129,6149__experience_37__gain_36,2,1,1,0,0,0.383178700361,6149,gain,experience,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,gain,experience,"{'solid', 'strong'}"
+7138,2102__sales_9__foot_12,0,0,0,0,0,0.203022634137,2102,foot,sales,{'NOUN'},{'NOUN'},True,foot,sale,"{'heavy', 'strong', 'soft', 'weak'}"
+7155,7243__blood_14__lake_12,3,3,2,2,0,1.3218865613,7243,lake,blood,{'NOUN'},{'NOUN'},True,lake,blood,"{'clear', 'bright'}"
+7173,7005__conversation_24__impression_21,2,2,2,0,0,0.474397021785,7005,impression,conversation,{'NOUN'},{'NOUN'},True,impression,conversation,"{'deep', 'warm'}"
+7185,1723__discount_4__pig_9,3,3,2,0,0,0.594587966059,1723,discount,pig,"{'NOUN', 'VERB'}",{'NOUN'},True,discount,pig,{'heavy'}
+7189,6664__history_12__framework_9,2,1,1,1,0,0.633984961622,6664,history,framework,{'NOUN'},{'NOUN'},True,history,framework,{'clear'}
+7214,462__game_43__control_41,2,1,1,1,1,0.679489270806,462,control,game,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,control,game,{'brilliant'}
+7267,6574__children_19__environment_29,2,1,0,0,0,0.38574220204,6574,children,environment,{'NOUN'},{'NOUN'},True,child,environment,"{'warm', 'cold'}"
+7274,1843__mechanism_25__layer_21,3,2,1,1,0,0.875647980842,1843,layer,mechanism,{'NOUN'},{'NOUN'},True,layer,mechanism,{'clear'}
+7275,3071__advantage_33__market_36,1,1,1,0,0,0.38252384674,3071,advantage,market,{'NOUN'},{'NOUN'},True,advantage,market,{'strong'}
+7299,4948__yellow_13__pools_14,3,3,3,1,1,1.68930987979,4948,yellow,pools,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,yellow,pool,{'bright'}
+7303,3143__alternative_14__form_15,3,2,1,1,0,0.752053611669,3143,alternative,form,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,alternative,form,{'soft'}
+7334,1252__heart_14__shot_10,2,2,1,0,0,0.412887080916,1252,shot,heart,"{'NOUN', 'VERB'}",{'NOUN'},True,shot,heart,{'clean'}
+7360,1767__leader_9__market_8,2,2,1,1,1,0.752053611669,1767,market,leader,{'NOUN'},{'NOUN'},True,market,leader,{'solid'}
+7363,6422__project_22__start_19,2,1,1,1,0,0.627733779924,6422,start,project,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,start,project,"{'brilliant', 'clean'}"
+7384,6354__commitment_7__progress_10,2,1,0,0,0,0.310150501857,6354,progress,commitment,"{'NOUN', 'VERB'}",{'NOUN'},True,progress,commitment,"{'solid', 'clear', 'strong'}"
+7387,3563__media_17__body_15,2,2,2,1,0,0.672284273133,3563,body,media,{'NOUN'},{'NOUN'},True,body,medium,{'dense'}
+7408,6327__girl_9__stem_6,1,0,0,0,0,0.196737258244,6327,stem,girl,"{'NOUN', 'VERB'}",{'NOUN'},True,stem,girl,{'bright'}
+7452,818__character_12__contrast_5,3,2,1,0,0,0.509850592551,818,character,contrast,{'NOUN'},"{'NOUN', 'VERB'}",True,character,contrast,"{'strong', 'bitter', 'bright'}"
+7454,2578__trial_18__shift_8,2,1,0,0,0,0.263531856667,2578,trial,shift,{'NOUN'},"{'NOUN', 'VERB'}",True,trial,shift,{'smooth'}
+7458,1074__traffic_10__congestion_11,3,1,1,1,1,0.654822237927,1074,traffic,congestion,{'NOUN'},{'NOUN'},True,traffic,congestion,{'heavy'}
+7469,6600__history_64__direction_62,3,2,1,1,1,0.851058772172,6600,direction,history,"{'X', 'NOUN'}",{'NOUN'},True,direction,history,{'clear'}
+7479,6852__nature_11__stage_16,3,2,0,0,0,0.470947159619,6852,nature,stage,{'NOUN'},"{'NOUN', 'VERB'}",True,nature,stage,{'bitter'}
+7507,5228__sun_20__catch_18,3,3,3,3,2,2.1107807518,5228,catch,sun,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,catch,sun,{'brilliant'}
+7521,1486__stone_11__element_4,3,3,2,2,0,1.33845935597,1486,stone,element,{'NOUN'},{'NOUN'},True,stone,element,{'heavy'}
+7549,7058__parties_43__attitudes_39,1,1,0,0,0,0.311046509434,7058,attitudes,parties,{'NOUN'},{'NOUN'},True,attitude,party,"{'brilliant', 'bitter'}"
+7550,452__win_25__building_22,3,2,2,2,2,1.36085254839,452,building,win,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,building,win,{'heated'}
+7576,6431__project_3__shift_7,1,1,0,0,0,0.301505355478,6431,project,shift,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,project,shift,{'clear'}
+7601,5223__door_33__holding_34,1,1,0,0,0,0.311046509434,5223,door,holding,{'NOUN'},"{'NOUN', 'VERB'}",True,door,holding,{'smooth'}
+7645,1866__masses_6__revolution_3,2,1,1,0,0,0.400230017142,1866,revolution,masses,{'NOUN'},{'NOUN'},True,revolution,mass,{'soft'}
+7646,6285__principles_9__design_12,2,1,0,0,0,0.324433685671,6285,design,principles,"{'NOUN', 'VERB'}",{'NOUN'},True,design,principle,{'strong'}
+7674,2967__friends_19__weather_18,3,2,2,0,0,0.977631986649,2967,weather,friends,{'NOUN'},"{'X', 'NOUN'}",True,weather,friend,{'warm'}
+7679,2587__questions_10__focus_6,2,1,1,0,0,0.390932937649,2587,questions,focus,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,question,focus,{'soft'}
+7682,11008__night_2__situation_24,2,1,1,0,0,0.395050774764,11008,night,situation,{'NOUN'},{'NOUN'},True,night,situation,"{'rough', 'murky', 'bitter', 'dim'}"
+7690,1717__analyst_3__service_7,2,1,0,0,0,0.288038379661,1717,analyst,service,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,analyst,service,{'brilliant'}
+7707,3207__drink_8__course_12,3,2,1,0,0,0.464982013842,3207,course,drink,{'NOUN'},"{'NOUN', 'VERB'}",True,course,drink,{'icy'}
+7745,1750__communication_11__cuts_9,2,1,1,1,1,0.776696409127,1750,communication,cuts,{'NOUN'},"{'NOUN', 'VERB'}",True,communication,cut,"{'clear', 'smooth'}"
+7779,2536__times_13__legacy_11,3,2,1,1,0,0.907943275872,2536,legacy,times,{'NOUN'},"{'ADP', 'NOUN', 'VERB'}",True,legacy,time,{'bitter'}
+7782,1852__network_4__battle_21,3,2,2,0,0,0.425234279486,1852,battle,network,"{'NOUN', 'VERB'}",{'NOUN'},True,battle,network,{'brilliant'}
+7793,6159__analysis_36__conducts_34,1,1,1,0,0,0.369248292463,6159,conducts,analysis,"{'NOUN', 'VERB'}",{'NOUN'},True,conduct,analysis,"{'brilliant', 'rough'}"
+7803,11479__staff_10__rules_6,1,1,0,0,0,0.433592717237,11479,staff,rules,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,staff,rule,{'brilliant'}
+7816,7030__leader_12__fighting_9,2,1,1,1,0,0.538179610907,7030,leader,fighting,{'NOUN'},"{'NOUN', 'VERB'}",True,leader,fighting,{'brilliant'}
+7842,4532__money_15__deal_13,2,1,1,1,0,0.595359635573,4532,deal,money,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,money,"{'murky', 'clean'}"
+7846,6835__children_12__balance_5,1,0,0,0,0,0.189702089847,6835,children,balance,{'NOUN'},"{'NOUN', 'VERB'}",True,child,balance,"{'rough', 'weak'}"
+7878,1394__city_18__streets_15,1,1,1,0,0,0.38252384674,1394,streets,city,{'NOUN'},{'NOUN'},True,street,city,"{'favorite', 'crowded', 'lonely', 'ancient', 'great', 'bright', 'clean', 'busy', 'charming', 'lovely', 'quiet', 'rainy'}"
+7908,562__consideration_3__reform_6,1,1,0,0,0,0.341302166301,562,consideration,reform,{'NOUN'},"{'NOUN', 'VERB'}",True,consideration,reform,{'deep'}
+7926,1057__business_9__centre_10,1,1,1,1,0,0.527201692394,1057,centre,business,{'NOUN'},{'NOUN'},True,centre,business,"{'bright', 'soft'}"
+7957,8704__brother_7__team_12,1,1,0,0,0,0.302225202956,8704,team,brother,{'NOUN'},{'NOUN'},True,team,brother,{'brilliant'}
+7959,1907__people_5__walls_13,3,1,0,0,0,0.312136406557,1907,walls,people,{'NOUN'},"{'NOUN', 'VERB'}",True,wall,people,"{'brilliant', 'rough', 'shallow', 'bright', 'cold', 'warm'}"
+7975,1767__division_38__growth_30,1,1,1,1,0,0.472050648873,1767,growth,division,{'NOUN'},{'NOUN'},True,growth,division,{'clear'}
+7978,3541__pounds_14__spending_10,2,1,0,0,0,0.310150501857,3541,spending,pounds,"{'NOUN', 'VERB'}",{'NOUN'},True,spending,pound,{'strong'}
+7989,3656__explanations_5__introductions_11,2,1,1,0,0,0.540553673205,3656,introductions,explanations,{'NOUN'},{'NOUN'},True,introduction,explanation,"{'brilliant', 'clear'}"
+7994,1530__skills_3__cover_4,2,1,1,1,0,0.479654065497,1530,skills,cover,{'NOUN'},"{'NOUN', 'VERB'}",True,skill,cover,{'soft'}
+8003,4698__country_10__home_6,2,1,1,0,0,0.523285807448,4698,country,home,{'NOUN'},"{'NOUN', 'VERB'}",True,country,home,"{'warm', 'cold'}"
+8024,7089__coordination_2__bodies_6,2,2,1,1,0,0.69259352766,7089,coordination,bodies,{'NOUN'},"{'NOUN', 'VERB'}",True,coordination,body,"{'smooth', 'weak'}"
+8035,6503__parents_11__attitudes_13,1,1,1,0,0,0.460027836127,6503,parents,attitudes,{'NOUN'},{'NOUN'},True,parent,attitude,{'brilliant'}
+8058,7010__pay_24__price_22,2,1,0,0,0,0.277047344685,7010,price,pay,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,price,pay,{'bitter'}
+8081,6290__start_12__emphasis_7,3,2,1,0,0,0.385252966738,6290,start,emphasis,"{'NOUN', 'VERB'}",{'NOUN'},True,start,emphasis,{'strong'}
+8113,6403__science_18__character_16,3,3,2,1,0,0.843645272827,6403,character,science,{'NOUN'},{'NOUN'},True,character,science,"{'brilliant', 'sweet', 'solid', 'bright', 'strong', 'soft', 'weak'}"
+8128,4621__mouth_22__corner_18,2,1,1,0,0,0.406851582613,4621,corner,mouth,{'NOUN'},{'NOUN'},True,corner,mouth,{'soft'}
+8145,1936__chance_18__return_20,2,1,1,0,0,0.414191924188,1936,chance,return,"{'ADJ', 'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,chance,return,"{'solid', 'strong'}"
+8153,6796__relation_42__conception_45,2,2,2,2,0,0.784290638461,6796,relation,conception,{'NOUN'},{'NOUN'},True,relation,conception,{'clear'}
+8166,2536__day_6__legacy_11,1,1,1,0,0,0.409078086091,2536,legacy,day,{'NOUN'},{'NOUN'},True,legacy,day,{'bitter'}
+8170,2790__top_31__changes_26,1,0,0,0,0,0.217157129419,2790,changes,top,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,change,top,{'smooth'}
+8199,6402__sciences_21__elements_17,2,2,1,1,0,0.60427955582,6402,elements,sciences,{'NOUN'},{'NOUN'},True,element,science,{'heavy'}
+8201,6820__questions_11__image_15,1,1,0,0,0,0.344930713493,6820,questions,image,"{'NOUN', 'VERB'}",{'NOUN'},True,question,image,"{'soft', 'clean'}"
+8259,3514__change_4__emphasis_6,3,2,2,1,0,0.752053611669,3514,change,emphasis,"{'NOUN', 'VERB'}",{'NOUN'},True,change,emphasis,{'clear'}
+8275,856__cars_8__run_15,1,1,1,1,0,0.521914874054,856,run,cars,"{'NOUN', 'VERB'}",{'NOUN'},True,run,car,"{'icy', 'clean'}"
+8292,5205__writing_47__lines_48,3,2,1,1,0,0.799887179518,5205,writing,lines,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,writing,line,{'bright'}
+8302,1909__process_9__home_14,1,0,0,0,0,0.161833212282,1909,home,process,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,home,process,{'bitter'}
+8318,5318__milk_15__run_6,2,1,0,0,0,0.258935499634,5318,milk,run,{'NOUN'},"{'NOUN', 'VERB'}",True,milk,run,{'clean'}
+8328,3573__disagreement_3__role_10,1,0,0,0,0,0.166055434504,3573,role,disagreement,{'NOUN'},{'NOUN'},True,role,disagreement,"{'clear', 'strong'}"
+8359,6367__career_11__image_15,1,1,1,0,0,0.456958880626,6367,career,image,{'NOUN'},{'NOUN'},True,career,image,{'bright'}
+8529,6682__project_46__object_43,3,2,2,1,1,0.965015179254,6682,object,project,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,object,project,{'dim'}
+8541,11712__words_7__usage_5,2,1,1,0,0,0.46960432651,11712,usage,words,{'NOUN'},{'NOUN'},True,usage,word,{'rough'}
+8649,3735__review_6__fields_15,1,1,0,0,0,0.330259383903,3735,fields,review,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,field,review,{'rough'}
+8660,6361__sciences_3__offer_7,1,1,0,0,0,0.248680395805,6361,sciences,offer,{'NOUN'},"{'NOUN', 'VERB'}",True,science,offer,"{'brilliant', 'solid', 'sweet'}"
+8696,6427__science_9__attitudes_7,1,1,0,0,0,0.278133340314,6427,attitudes,science,{'NOUN'},{'NOUN'},True,attitude,science,"{'brilliant', 'soft'}"
+8720,1227__knife_19__stick_17,3,2,1,1,0,0.738294865334,1227,stick,knife,"{'NOUN', 'VERB'}",{'NOUN'},True,stick,knife,{'heavy'}
+8742,3752__research_6__challenges_4,2,1,1,0,0,0.486153079866,3752,challenges,research,"{'NOUN', 'VERB'}",{'NOUN'},True,challenge,research,"{'heavy', 'clear', 'strong', 'deep'}"
+8744,11221__company_22__ties_17,3,2,1,1,0,0.750440293331,11221,ties,company,"{'NOUN', 'VERB'}",{'NOUN'},True,tie,company,{'bright'}
+8745,3547__organizations_10__expansion_6,2,1,1,1,0,0.604274035289,3547,organizations,expansion,{'NOUN'},{'NOUN'},True,organization,expansion,{'smooth'}
+8766,6372__girls_7__proportion_2,1,1,1,0,0,0.42388508542,6372,proportion,girls,{'NOUN'},{'NOUN'},True,proportion,girl,{'rough'}
+8791,5410__days_7__world_12,1,1,0,0,0,0.323102914744,5410,world,days,{'NOUN'},{'NOUN'},True,world,day,"{'cold', 'warm', 'icy'}"
+8809,3518__increase_66__sense_45,2,0,0,0,0,0.189702089847,3518,sense,increase,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sense,increase,{'strong'}
+8822,6590__processes_24__link_19,3,1,0,0,0,0.310150501857,6590,link,processes,"{'NOUN', 'VERB'}",{'NOUN'},True,link,process,{'murky'}
+8832,1174__design_10__field_8,2,1,1,1,1,0.682883394413,1174,design,field,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,design,field,{'bright'}
+8844,6835__covers_14__images_21,1,1,1,1,0,0.504554630774,6835,covers,images,"{'NOUN', 'VERB'}",{'NOUN'},True,cover,image,"{'bright', 'soft'}"
+8857,7065__manner_28__concrete_27,3,2,2,1,1,1.09237648641,7065,concrete,manner,"{'ADJ', 'NOUN'}",{'NOUN'},True,concrete,manner,"{'heavy', 'cold', 'smooth'}"
+8867,4580__jacket_33__line_31,1,1,0,0,0,0.345395025212,4580,line,jacket,"{'NOUN', 'VERB'}",{'NOUN'},True,line,jacket,{'bright'}
+8873,3199__custody_21__door_19,2,2,2,1,0,0.708463671278,3199,door,custody,{'NOUN'},{'NOUN'},True,door,custody,{'heated'}
+8879,7058__management_17__coordination_23,3,1,0,0,0,0.333123002537,7058,management,coordination,{'NOUN'},{'NOUN'},True,management,coordination,"{'smooth', 'weak'}"
+8889,6855__children_14__blame_32,3,3,2,0,0,0.653856060669,6855,children,blame,{'NOUN'},"{'NOUN', 'VERB'}",True,child,blame,{'heavy'}
+8903,8586__reason_17__change_19,2,1,1,0,0,0.398064894108,8586,reason,change,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,reason,change,"{'deep', 'clear'}"
+8918,1226__play_6__matches_7,3,1,1,0,0,0.730772845664,1226,play,matches,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,play,match,{'clean'}
+8931,766__screen_17__centre_16,2,1,1,1,0,0.609738669686,766,centre,screen,{'NOUN'},"{'NOUN', 'VERB'}",True,centre,screen,{'bright'}
+8939,6966__principle_20__view_17,3,3,2,2,1,1.37413013141,6966,view,principle,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,view,principle,"{'clear', 'bitter'}"
+8959,2615__terms_2__rule_7,1,0,0,0,0,0.141048442678,2615,terms,rule,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,term,rule,"{'rough', 'murky'}"
+8968,1342__culture_20__indictment_17,3,3,3,3,2,1.8885885267,1342,indictment,culture,{'NOUN'},{'NOUN'},True,indictment,culture,{'bitter'}
+8982,7019__strategy_2__sense_27,1,0,0,0,0,0.141048442678,7019,strategy,sense,{'NOUN'},"{'NOUN', 'VERB'}",True,strategy,sense,{'solid'}
+9042,121__history_43__view_41,2,1,1,0,0,0.509000458176,121,view,history,"{'NOUN', 'VERB'}",{'NOUN'},True,view,history,"{'clear', 'bitter'}"
+9064,593__oil_19__plant_9,2,0,0,0,0,0.189702089847,593,oil,plant,{'NOUN'},"{'NOUN', 'VERB'}",True,oil,plant,{'heated'}
+9068,1773__issue_22__call_23,2,1,1,1,0,0.662852827543,1773,issue,call,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,issue,call,"{'heated', 'clear'}"
+9072,2981__death_26__walls_24,3,3,3,2,1,1.42383434116,2981,walls,death,{'NOUN'},{'NOUN'},True,wall,death,{'icy'}
+9093,1341__runs_6__ribbon_4,3,3,3,2,1,1.95930070032,1341,ribbon,runs,{'NOUN'},"{'NOUN', 'VERB'}",True,ribbon,run,{'brilliant'}
+9097,11404__corner_20__bottom_19,1,1,1,0,0,0.483884470218,11404,bottom,corner,"{'ADJ', 'NOUN'}",{'NOUN'},True,bottom,corner,"{'murky', 'rough', 'deep', 'cold', 'soft', 'icy'}"
+9103,2729__burn_7__runs_4,3,3,2,2,0,1.2998636248,2729,runs,burn,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,run,burn,{'clean'}
+9128,3518__community_54__spirit_55,2,2,1,1,1,0.784909760486,3518,community,spirit,{'NOUN'},{'NOUN'},True,community,spirit,{'strong'}
+9142,6394__period_17__crisis_16,2,1,1,1,1,0.662351221081,6394,crisis,period,"{'X', 'NOUN'}",{'NOUN'},True,crisis,period,{'bitter'}
+9187,3655__theories_8__attempt_10,2,1,1,1,0,0.605730571149,3655,attempt,theories,"{'NOUN', 'VERB'}",{'NOUN'},True,attempt,theory,{'brilliant'}
+9205,1907__people_5__building_10,2,1,1,0,0,0.355976692352,1907,building,people,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,building,people,"{'warm', 'cold'}"
+9212,6640__objects_21__structure_18,2,1,1,0,0,0.377625484233,6640,structure,objects,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,structure,object,"{'solid', 'heavy'}"
+9250,4868__girl_3__dog_6,3,2,1,1,1,0.931999979918,4868,girl,dog,{'NOUN'},{'NOUN'},True,girl,dog,"{'mad', 'shy', 'adorable', 'weird', 'muddy', 'drunk', 'fat', 'loud', 'tired', 'crazy', 'cute', 'bad', 'bright', 'poor', 'smiling', 'warm', 'stupid', 'silly', 'sweet', 'lazy'}"
+9260,3211__time_5__count_9,2,0,0,0,0,0.190408255052,3211,time,count,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,time,count,{'rough'}
+9270,6374__decisions_25__pupils_20,1,1,1,0,0,0.40328778899,6374,pupils,decisions,{'NOUN'},{'NOUN'},True,pupil,decision,{'brilliant'}
+9305,1638__attempt_9__win_11,2,1,1,1,0,0.642888146771,1638,win,attempt,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,win,attempt,"{'brilliant', 'clear'}"
+9314,5569__blue_16__affair_18,3,3,3,2,0,1.38755418878,5569,blue,affair,"{'ADJ', 'NOUN'}",{'NOUN'},True,blue,affair,{'brilliant'}
+9367,4650__chairs_11__legs_19,2,1,1,1,0,0.583378160186,4650,chairs,legs,{'NOUN'},{'NOUN'},True,chair,leg,"{'broken', 'heavy'}"
+9384,7106__matter_11__building_15,3,1,0,0,0,0.328893566385,7106,matter,building,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,matter,building,{'dense'}
+9424,2582__trials_23__cost_20,1,1,0,0,0,0.479953155001,2582,cost,trials,"{'NOUN', 'VERB'}",{'NOUN'},True,cost,trial,{'bitter'}
+9445,6169__expenditure_4__training_2,1,0,0,0,0,0.166055434504,6169,training,expenditure,"{'NOUN', 'VERB'}",{'NOUN'},True,training,expenditure,{'heavy'}
+9448,5387__dishes_36__host_33,3,2,2,2,2,1.32989878722,5387,host,dishes,{'NOUN'},"{'NOUN', 'VERB'}",True,host,dish,{'warm'}
+9450,3486__acknowledgement_35__challenge_38,3,2,2,1,0,0.741874847999,3486,acknowledgement,challenge,{'NOUN'},"{'NOUN', 'VERB'}",True,acknowledgement,challenge,{'clear'}
+9470,3026__weekend_8__home_3,1,0,0,0,0,0.171617376419,3026,home,weekend,"{'NOUN', 'VERB'}",{'NOUN'},True,home,weekend,"{'warm', 'cold'}"
+9479,3079__prospect_26__growth_29,2,1,1,1,1,0.662351221081,3079,prospect,growth,{'NOUN'},{'NOUN'},True,prospect,growth,"{'clear', 'strong', 'weak'}"
+9493,6822__example_46__ground_49,1,1,0,0,0,0.286669843928,6822,example,ground,{'NOUN'},"{'NOUN', 'VERB'}",True,example,ground,"{'solid', 'clear', 'bright'}"
+9499,7033__organizers_74__team_70,2,1,1,0,0,0.421787439439,7033,team,organizers,{'NOUN'},{'NOUN'},True,team,organizer,{'brilliant'}
+9506,6229__material_2__structure_18,2,2,0,0,0,0.294189519,6229,structure,material,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,structure,material,"{'solid', 'heavy', 'smooth'}"
+9507,8415__bomb_30__plot_31,3,3,2,2,1,1.35678904433,8415,bomb,plot,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,bomb,plot,{'weak'}
+9511,6357__individual_34__offer_28,2,1,0,0,0,0.310150501857,6357,offer,individual,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,offer,individual,"{'brilliant', 'sweet'}"
+9513,506__pound_35__heart_34,3,3,2,1,1,1.47002462629,506,heart,pound,{'NOUN'},"{'NOUN', 'VERB'}",True,heart,pound,{'strong'}
+9525,7224__islands_18__map_23,3,1,1,1,0,0.56937607768,7224,islands,map,{'NOUN'},"{'NOUN', 'VERB'}",True,island,map,{'rough'}
+9530,4896__sun_21__setting_20,2,2,1,1,1,0.656701472316,4896,setting,sun,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,setting,sun,{'dim'}
+9570,11013__laugh_11__band_4,3,1,0,0,0,0.301839521872,11013,laugh,band,"{'NOUN', 'VERB'}",{'NOUN'},True,laugh,band,{'brilliant'}
+9613,3609__response_9__shades_20,3,2,2,1,0,1.11806577631,3609,shades,response,{'NOUN'},{'NOUN'},True,shade,response,"{'brilliant', 'warm', 'soft'}"
+9616,3594__law_25__forces_23,2,2,1,1,1,0.771805503632,3594,forces,law,"{'X', 'NOUN', 'VERB'}",{'NOUN'},True,force,law,"{'strong', 'weak'}"
+9644,1288__artist_12__image_8,3,2,1,1,0,0.752053611669,1288,artist,image,{'NOUN'},{'NOUN'},True,artist,image,{'bright'}
+9645,6463__girls_20__approach_21,2,1,1,0,0,0.378663300407,6463,girls,approach,{'NOUN'},"{'NOUN', 'VERB'}",True,girl,approach,{'warm'}
+9667,861__service_15__intervals_16,3,2,1,1,1,0.69964413467,861,service,intervals,"{'X', 'NOUN', 'VERB'}",{'NOUN'},True,service,interval,{'bright'}
+9718,1554__past_22__power_24,2,2,1,1,0,0.710930432454,1554,past,power,"{'ADV', 'ADP', 'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,past,power,"{'murky', 'bitter'}"
+9727,4646__world_15__air_22,3,1,1,0,0,0.390803611559,4646,world,air,{'NOUN'},{'NOUN'},True,world,air,"{'cold', 'warm', 'icy'}"
+9741,5306__chair_21__anatomy_18,3,3,2,2,0,1.34858627447,5306,anatomy,chair,{'NOUN'},{'NOUN'},True,anatomy,chair,{'soft'}
+9782,3735__demands_33__fields_15,2,0,0,0,0,0.153615485052,3735,fields,demands,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,field,demand,"{'clear', 'soft'}"
+9813,1903__issue_7__borders_9,2,2,1,1,1,0.714641647533,1903,issue,borders,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,issue,border,"{'heated', 'bitter'}"
+9832,6361__choice_11__offer_7,2,1,1,1,0,0.736710158187,6361,choice,offer,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,choice,offer,"{'brilliant', 'sweet', 'solid', 'clear', 'cold'}"
+9840,1774__sale_2__plant_25,2,1,0,0,0,0.384799091896,1774,sale,plant,{'NOUN'},"{'NOUN', 'VERB'}",True,sale,plant,{'heated'}
+9860,12146__morning_22__fine_26,1,1,0,0,0,0.253644859971,12146,morning,fine,"{'NOUN', 'PRT'}","{'ADV', 'ADJ', 'NOUN', 'VERB'}",True,morning,fine,{'heavy'}
+9876,1179__appearance_23__table_21,3,3,0,0,0,0.610983782408,1179,table,appearance,"{'NOUN', 'VERB'}",{'NOUN'},True,table,appearance,"{'bright', 'cold'}"
+9888,3629__arguments_6__images_2,3,2,1,1,0,0.70756832019,3629,images,arguments,{'NOUN'},{'NOUN'},True,image,argument,"{'strong', 'soft', 'weak'}"
+9925,6406__history_9__cover_7,3,1,1,0,0,0.38252384674,6406,cover,history,"{'NOUN', 'VERB'}",{'NOUN'},True,cover,history,{'bright'}
+9952,6835__try_25__talking_9,1,0,0,0,0,0.189702089847,6835,try,talking,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,try,talking,{'soft'}
+9957,1864__process_20__wave_2,2,0,0,0,0,0.21863593337,1864,wave,process,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,wave,process,{'smooth'}
+9979,3079__growth_29__return_23,2,1,1,0,0,0.408613021706,3079,return,growth,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,return,growth,{'strong'}
+10005,1608__people_5__offices_10,1,0,0,0,0,0.14429044577,1608,offices,people,{'NOUN'},"{'NOUN', 'VERB'}",True,office,people,"{'warm', 'cold'}"
+10009,6583__history_45__power_43,2,2,2,1,1,0.695844496841,6583,power,history,"{'NOUN', 'VERB'}",{'NOUN'},True,power,history,"{'murky', 'bitter'}"
+10045,5001__window_19__explosion_15,3,2,1,1,0,0.620907832321,5001,explosion,window,{'NOUN'},{'NOUN'},True,explosion,window,"{'brilliant', 'bright'}"
+10056,6558__information_6__system_7,2,1,1,1,0,0.475281072796,6558,information,system,{'NOUN'},{'NOUN'},True,information,system,"{'murky', 'dense'}"
+10071,2645__law_8__frame_6,2,1,1,1,0,0.533891035257,2645,frame,law,"{'NOUN', 'VERB'}",{'NOUN'},True,frame,law,{'heavy'}
+10080,2520__person_25__regard_23,1,1,1,0,0,0.463548546958,2520,regard,person,"{'NOUN', 'VERB'}",{'NOUN'},True,regard,person,{'warm'}
+10103,6329__ambition_14__stems_22,2,2,0,0,0,0.30505021009,6329,ambition,stems,{'NOUN'},"{'NOUN', 'VERB'}",True,ambition,stem,"{'clear', 'strong'}"
+10110,6873__children_24__observations_21,1,1,1,0,0,0.490199202264,6873,observations,children,{'NOUN'},{'NOUN'},True,observation,child,{'brilliant'}
+10116,1508__hand_39__mouth_41,3,3,2,1,0,1.34544921555,1508,hand,mouth,"{'NOUN', 'VERB'}",{'NOUN'},True,hand,mouth,"{'soft', 'gross', 'dirty', 'filthy', 'bloody'}"
+10120,6441__question_2__survey_5,1,1,0,0,0,0.248680395805,6441,question,survey,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,question,survey,{'brilliant'}
+10128,875__prices_32__run_33,2,1,1,0,0,0.410263414384,875,prices,run,{'NOUN'},"{'NOUN', 'VERB'}",True,price,run,"{'brilliant', 'clean'}"
+10139,2960__opinion_10__subjects_15,3,1,1,0,0,0.538999816422,2960,opinion,subjects,{'NOUN'},"{'NOUN', 'VERB'}",True,opinion,subject,{'heated'}
+10142,4698__team_42__design_41,2,2,1,0,0,0.379283163181,4698,design,team,"{'NOUN', 'VERB'}",{'NOUN'},True,design,team,{'bright'}
+10143,6966__tears_5__shed_7,3,2,1,1,1,0.738271137219,6966,tears,shed,{'NOUN'},"{'NOUN', 'VERB'}",True,tear,shed,{'warm'}
+10149,3587__protests_12__sense_8,2,1,1,1,0,0.604274035289,3587,protests,sense,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,protest,sense,{'strong'}
+10151,9391__cost_30__bomb_33,3,3,2,1,0,1.36388520502,9391,cost,bomb,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,cost,bomb,{'heavy'}
+10157,1289__appearance_5__language_10,2,0,0,0,0,0.203022634137,1289,language,appearance,{'NOUN'},{'NOUN'},True,language,appearance,"{'bright', 'cold'}"
+10170,5768__cover_15__sign_19,1,1,1,0,0,0.424619133459,5768,cover,sign,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,cover,sign,{'bright'}
+10204,3165__speech_10__tool_14,2,2,1,1,1,0.756087930454,3165,speech,tool,{'NOUN'},"{'ADJ', 'NOUN'}",True,speech,tool,{'heated'}
+10219,3069__step_9__spring_6,3,3,3,3,0,1.93398863548,3069,spring,step,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,spring,step,{'icy'}
+10242,13330__morning_13__answer_10,2,1,1,0,0,0.407857499647,13330,answer,morning,"{'NOUN', 'VERB'}","{'NOUN', 'PRT'}",True,answer,morning,"{'clear', 'dim'}"
+10245,3609__opinion_23__shades_20,3,3,2,2,2,1.61789271234,3609,shades,opinion,{'NOUN'},{'NOUN'},True,shade,opinion,{'brilliant'}
+10248,7492__days_25__deal_22,2,1,1,0,0,0.378663300407,7492,deal,days,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,day,"{'rough', 'murky', 'sweet'}"
+10251,6309__offer_21__model_23,1,1,1,0,0,0.443350009658,6309,offer,model,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,offer,model,{'shallow'}
+10261,2653__rule_25__approach_3,2,1,1,0,0,0.404106931846,2653,rule,approach,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,rule,approach,{'weak'}
+10263,7006__speeches_36__advance_46,2,1,1,0,0,0.402477550732,7006,speeches,advance,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,speech,advance,"{'brilliant', 'smooth'}"
+10270,3535__unemployment_11__tackle_9,2,2,1,1,0,0.5489137207,3535,unemployment,tackle,{'NOUN'},"{'NOUN', 'VERB'}",True,unemployment,tackle,{'weak'}
+10275,3153__understanding_10__model_8,3,1,1,1,0,0.679489270806,3153,understanding,model,"{'ADJ', 'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,understanding,model,{'shallow'}
+10287,1322__painter_21__role_16,2,1,1,1,1,0.662351221081,1322,role,painter,{'NOUN'},{'NOUN'},True,role,painter,"{'brilliant', 'shallow'}"
+10302,6331__issues_29__views_26,2,1,1,0,0,0.568438252309,6331,views,issues,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,view,issue,"{'clear', 'bitter'}"
+10311,1854__institutions_8__network_3,1,1,1,1,0,0.554405212578,1854,network,institutions,{'NOUN'},{'NOUN'},True,network,institution,"{'strong', 'weak'}"
+10316,6628__individual_11__relation_8,1,1,1,1,0,0.504554630774,6628,individual,relation,"{'ADJ', 'NOUN'}",{'NOUN'},True,individual,relation,{'rough'}
+10319,6432__science_30__appeal_33,2,1,1,1,1,0.63916045069,6432,science,appeal,{'NOUN'},"{'NOUN', 'VERB'}",True,science,appeal,{'strong'}
+10347,5637__male_18__models_19,2,1,1,1,0,0.531665020385,5637,male,models,"{'ADJ', 'NOUN'}",{'NOUN'},True,male,model,"{'hot', 'attractive'}"
+10350,99__government_4__decision_6,1,1,0,0,0,0.239714920179,99,government,decision,{'NOUN'},{'NOUN'},True,government,decision,"{'murky', 'clear', 'clean', 'bitter', 'weak'}"
+10360,2751__streams_24__beds_21,3,1,1,1,0,0.718912958914,2751,beds,streams,{'NOUN'},{'NOUN'},True,bed,stream,"{'deep', 'shallow', 'cold', 'clean', 'warm'}"
+10365,11798__children_10__deal_7,1,1,1,1,0,0.550512635412,11798,children,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,child,deal,"{'brilliant', 'rough', 'sweet', 'weak'}"
+10387,3111__individual_7__touches_5,2,2,1,1,1,0.72888245155,3111,touches,individual,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,touch,individual,"{'brilliant', 'rough'}"
+10402,2167__wedding_20__plans_17,1,1,1,1,0,0.412478354931,2167,plans,wedding,"{'NOUN', 'VERB'}",{'NOUN'},True,plan,wedding,{'brilliant'}
+10421,2173__women_2__appeal_8,2,1,1,1,0,0.544823191404,2173,women,appeal,{'NOUN'},"{'NOUN', 'VERB'}",True,woman,appeal,"{'warm', 'strong'}"
+10432,8048__love_11__fall_9,2,1,1,1,0,0.679489270806,8048,love,fall,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,love,fall,{'bitter'}
+10504,1315__woman_26__image_21,2,1,1,1,1,0.661218019986,1315,image,woman,{'NOUN'},"{'NOUN', 'VERB'}",True,image,woman,"{'sweet', 'bright', 'strong'}"
+10511,2756__spring_5__sign_3,3,2,2,1,0,0.907551450506,2756,sign,spring,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sign,spring,{'bright'}
+10534,2735__north_43__filling_37,3,3,1,0,0,0.530935996397,2735,filling,north,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,filling,north,{'cold'}
+10559,3533__management_16__structures_17,3,2,2,1,1,1.02981892202,3533,management,structures,{'NOUN'},{'NOUN'},True,management,structure,"{'solid', 'heavy', 'smooth'}"
+10566,6636__encounters_3__products_5,3,2,1,1,0,0.791134230766,6636,encounters,products,"{'NOUN', 'VERB'}",{'NOUN'},True,encounter,product,{'heated'}
+10581,875__white_19__grounds_20,3,2,2,1,0,0.83909100175,875,white,grounds,"{'ADJ', 'NOUN'}",{'NOUN'},True,white,ground,{'bright'}
+10591,1034__people_13__advance_15,3,3,2,1,0,0.74218019032,1034,people,advance,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,people,advance,{'brilliant'}
+10611,7029__party_17__cry_21,3,3,2,1,0,1.35862247027,7029,party,cry,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,party,cry,{'bitter'}
+10632,6427__scientists_11__attitudes_7,1,1,0,0,0,0.278133340314,6427,scientists,attitudes,{'NOUN'},{'NOUN'},True,scientist,attitude,{'brilliant'}
+10677,6638__encounter_7__objects_9,2,1,1,1,0,0.647989214573,6638,encounter,objects,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,encounter,object,{'heated'}
+10686,3639__theme_6__responses_11,2,1,0,0,0,0.343622520868,3639,responses,theme,{'NOUN'},{'NOUN'},True,response,theme,{'clear'}
+10689,1492__election_25__run-up_21,3,2,1,1,1,0.852862177745,1492,run-up,election,"{'ADJ', 'NOUN'}",{'NOUN'},True,run-up,election,{'smooth'}
+10690,6415__ability_25__control_29,1,1,1,1,0,0.504554630774,6415,ability,control,{'NOUN'},"{'NOUN', 'VERB'}",True,ability,control,{'brilliant'}
+10691,3197__drink_30__materials_7,2,0,0,0,0,0.161833212282,3197,drink,materials,"{'NOUN', 'VERB'}",{'NOUN'},True,drink,material,"{'strong', 'icy'}"
+10717,12974__window_23__shot_17,3,2,0,0,0,0.407469355954,12974,shot,window,"{'NOUN', 'VERB'}",{'NOUN'},True,shot,window,"{'brilliant', 'clean'}"
+10719,11940__moment_9__lady_6,2,1,0,0,0,0.299007727157,11940,lady,moment,{'NOUN'},{'NOUN'},True,lady,moment,{'sweet'}
+10750,833__branches_46__holding_42,3,2,1,0,0,0.494207027958,833,holding,branches,"{'NOUN', 'VERB'}",{'NOUN'},True,holding,branch,{'smooth'}
+10751,1744__generation_5__languages_6,2,2,2,1,1,0.695844496841,1744,generation,languages,{'NOUN'},{'NOUN'},True,generation,language,{'soft'}
+10752,2947__week_9__campaign_12,1,1,0,0,0,0.36238957727,2947,campaign,week,"{'NOUN', 'VERB'}",{'NOUN'},True,campaign,week,"{'rough', 'bitter', 'heavy'}"
+10784,3708__crime_34__patterns_32,3,2,2,1,1,0.967448203496,3708,patterns,crime,{'NOUN'},{'NOUN'},True,pattern,crime,{'heavy'}
+10820,5192__ground_5__rose_6,3,2,2,2,2,1.32989878722,5192,ground,rose,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,ground,rose,{'bright'}
+10826,8233__afternoon_7__calm_3,3,2,2,1,0,0.822624979918,8233,calm,afternoon,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,calm,afternoon,{'icy'}
+10846,147__life_26__painter_18,1,0,0,0,0,0.166055434504,147,painter,life,{'NOUN'},{'NOUN'},True,painter,life,{'shallow'}
+10856,1382__green_4__links_9,2,2,1,1,0,0.822910129632,1382,green,links,"{'ADJ', 'NOUN'}",{'NOUN'},True,green,link,{'murky'}
+10861,13297__canal_8__bodies_10,3,2,2,2,0,0.846039330678,13297,bodies,canal,"{'NOUN', 'VERB'}",{'NOUN'},True,body,canal,"{'icy', 'clean'}"
+10877,6332__example_2__view_7,2,1,1,0,0,0.375765645225,6332,example,view,{'NOUN'},"{'NOUN', 'VERB'}",True,example,view,{'clear'}
+10897,3540__spending_32__hand_28,3,2,0,0,0,0.316045443965,3540,hand,spending,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,hand,spending,"{'strong', 'weak'}"
+10906,2770__trees_15__clumps_13,3,3,3,2,2,2.02596736699,2770,clumps,trees,{'NOUN'},{'NOUN'},True,clump,tree,"{'dense', 'bright'}"
+10910,1226__dialogue_14__matches_7,3,3,2,0,0,0.668223713675,1226,dialogue,matches,{'NOUN'},"{'NOUN', 'VERB'}",True,dialogue,match,{'heated'}
+10919,6869__thinking_14__leaves_9,1,0,0,0,0,0.1452706649,6869,thinking,leaves,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,thinking,leaf,"{'brilliant', 'clear'}"
+10933,5387__pies_4__light_9,1,0,0,0,0,0.17286548854,5387,pies,light,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,pie,light,{'cold'}
+10937,3222__notion_5__exercises_2,2,2,2,2,1,1.02961588592,3222,exercises,notion,"{'NOUN', 'VERB'}",{'NOUN'},True,exercise,notion,"{'brilliant', 'soft'}"
+10943,6679__question_7__struggle_19,2,2,1,0,0,0.38752322219,6679,struggle,question,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,struggle,question,"{'heated', 'bitter'}"
+10968,1206__site_11__eyes_7,2,1,1,1,1,0.682883394413,1206,site,eyes,{'NOUN'},{'NOUN'},True,site,eye,"{'bright', 'cold'}"
+11027,1489__logic_14__plans_18,2,1,1,0,0,0.490199202264,1489,logic,plans,{'NOUN'},"{'NOUN', 'VERB'}",True,logic,plan,{'clear'}
+11045,1337__art_39__nature_32,3,3,2,1,0,0.73081866678,1337,nature,art,{'NOUN'},"{'NOUN', 'VERB'}",True,nature,art,{'awesome'}
+11052,927__milk_6__punch_7,3,2,2,1,1,0.900839693968,927,milk,punch,{'NOUN'},"{'NOUN', 'VERB'}",True,milk,punch,{'clean'}
+11069,7029__power_46__recovery_44,3,2,2,2,1,1.30374900677,7029,recovery,power,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,recovery,power,"{'heated', 'soft', 'smooth'}"
+11070,490__evidence_17__position_11,0,0,0,0,0,0.189702089847,490,position,evidence,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,position,evidence,{'murky'}
+11073,1554__symbol_20__power_24,3,2,1,1,1,0.802204792208,1554,symbol,power,{'NOUN'},"{'NOUN', 'VERB'}",True,symbol,power,{'bitter'}
+11099,823__rejection_5__response_2,1,1,0,0,0,0.320432681294,823,response,rejection,{'NOUN'},{'NOUN'},True,response,rejection,"{'clear', 'strong', 'bitter'}"
+11100,3103__changes_23__reverse_21,1,1,1,1,0,0.679336164824,3103,reverse,changes,"{'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,reverse,change,{'smooth'}
+11108,4559__calculations_18__path_17,3,1,0,0,0,0.364957098422,4559,path,calculations,{'NOUN'},{'NOUN'},True,path,calculation,{'rough'}
+11110,6958__information_27__access_24,1,1,1,0,0,0.391318173743,6958,access,information,{'NOUN'},{'NOUN'},True,access,information,{'clear'}
+11127,3069__market_13__spring_6,3,3,0,0,0,0.403854972863,3069,market,spring,{'NOUN'},"{'NOUN', 'VERB'}",True,market,spring,{'soft'}
+11139,3505__authorities_30__powers_26,2,1,1,1,0,0.531665020385,3505,powers,authorities,"{'NOUN', 'VERB'}",{'NOUN'},True,power,authority,{'soft'}
+11143,6790__childhood_16__stages_14,2,1,1,1,1,0.660718485287,6790,stages,childhood,{'NOUN'},{'NOUN'},True,stage,childhood,{'bitter'}
+11147,981__attention_10__demand_8,1,1,1,1,0,0.550512635412,981,attention,demand,{'NOUN'},"{'NOUN', 'VERB'}",True,attention,demand,{'heavy'}
+11150,668__road_5__section_2,2,2,1,1,0,0.567954932185,668,section,road,"{'X', 'NOUN'}",{'NOUN'},True,section,road,{'icy'}
+11292,3539__investment_34__barriers_28,3,1,0,0,0,0.306741185827,3539,barriers,investment,{'NOUN'},{'NOUN'},True,barrier,investment,{'solid'}
+11315,9641__character_7__bit_5,1,1,1,1,0,0.562536164824,9641,bit,character,"{'NOUN', 'VERB'}",{'NOUN'},True,bit,character,{'rough'}
+11334,545__reality_5__situation_9,2,2,1,0,0,0.367020580237,545,reality,situation,{'NOUN'},{'NOUN'},True,reality,situation,{'bitter'}
+11335,3581__opposition_21__view_24,2,1,1,0,0,0.438272285332,3581,opposition,view,{'NOUN'},"{'NOUN', 'VERB'}",True,opposition,view,"{'clear', 'bitter'}"
+11340,1462__region_16__flows_13,2,2,1,1,0,0.760403171851,1462,flows,region,"{'NOUN', 'VERB'}",{'NOUN'},True,flow,region,"{'warm', 'cold'}"
+11349,2578__proposal_2__shift_8,2,1,1,1,0,0.662852827543,2578,proposal,shift,{'NOUN'},"{'NOUN', 'VERB'}",True,proposal,shift,{'clear'}
+11384,3511__health_44__fields_37,2,1,1,1,1,0.660718485287,3511,fields,health,"{'NOUN', 'VERB'}",{'NOUN'},True,field,health,{'clear'}
+11464,849__trade_13__view_15,2,1,1,0,0,0.449410496239,849,trade,view,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,trade,view,"{'clear', 'bitter', 'sour'}"
+11483,6329__boys_4__contrast_2,2,1,1,0,0,0.395801094337,6329,contrast,boys,"{'NOUN', 'VERB'}",{'NOUN'},True,contrast,boy,{'bright'}
+11487,6373__girls_5__stage_12,1,1,0,0,0,0.28846835189,6373,stage,girls,"{'NOUN', 'VERB'}",{'NOUN'},True,stage,girl,{'warm'}
+11509,551__government_11__light_6,3,1,1,0,0,0.378549462158,551,government,light,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,government,light,"{'murky', 'clear', 'cold'}"
+11513,158__criticism_9__focus_6,2,2,2,1,1,0.774624166582,158,focus,criticism,"{'NOUN', 'VERB'}",{'NOUN'},True,focus,criticism,"{'heavy', 'strong'}"
+11514,2553__sentence_10__contribution_14,1,0,0,0,0,0.14429044577,2553,sentence,contribution,{'NOUN'},{'NOUN'},True,sentence,contribution,{'weak'}
+11561,4569__management_16__role_8,1,0,0,0,0,0.185479867625,4569,management,role,{'NOUN'},{'NOUN'},True,management,role,"{'brilliant', 'clear', 'strong'}"
+11568,6354__person_2__crisis_5,2,1,0,0,0,0.321006629154,6354,person,crisis,{'NOUN'},"{'X', 'NOUN'}",True,person,crisis,{'bitter'}
+11584,6803__theory_13__build_11,2,2,1,1,0,0.609447607807,6803,build,theory,"{'NOUN', 'VERB'}",{'NOUN'},True,build,theory,{'solid'}
+11587,3125__credentials_31__wing_30,2,0,0,0,0,0.193299526385,3125,wing,credentials,"{'NOUN', 'VERB'}",{'NOUN'},True,wing,credential,{'strong'}
+11594,3594__integration_7__move_3,3,2,1,1,0,0.611217772195,3594,move,integration,"{'NOUN', 'VERB'}",{'NOUN'},True,move,integration,{'smooth'}
+11605,3613__family_17__structures_18,3,2,1,1,1,0.70249213195,3613,family,structures,{'NOUN'},{'NOUN'},True,family,structure,{'solid'}
+11618,3624__debate_18__plank_15,3,3,3,2,0,1.76257821981,3624,plank,debate,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,plank,debate,{'heavy'}
+11619,3526__brains_12__partnership_7,3,3,2,2,0,1.20374603295,3526,brains,partnership,{'NOUN'},{'NOUN'},True,brain,partnership,{'brilliant'}
+11662,2563__life_14__serving_13,2,2,2,1,1,0.760785921214,2563,serving,life,"{'NOUN', 'VERB'}",{'NOUN'},True,serving,life,{'warm'}
+11702,6431__attempts_20__shift_7,2,1,0,0,0,0.301505355478,6431,attempts,shift,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,attempt,shift,{'clear'}
+11711,1027__house_27__dreams_30,2,2,1,1,0,0.686324565709,1027,house,dreams,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,house,dream,{'strange'}
+11715,1866__revolution_3__mother_9,3,3,2,2,0,1.04520165011,1866,revolution,mother,{'NOUN'},"{'NOUN', 'VERB'}",True,revolution,mother,{'bitter'}
+11716,1324__debates_6__nature_10,3,2,1,1,0,0.702680041197,1324,nature,debates,{'NOUN'},{'NOUN'},True,nature,debate,{'bitter'}
+11721,6236__logic_6__design_9,2,2,2,1,1,0.814060109394,6236,logic,design,{'NOUN'},"{'NOUN', 'VERB'}",True,logic,design,{'cold'}
+11729,2838__streets_8__campaign_4,3,1,0,0,0,0.301505355478,2838,campaign,streets,"{'NOUN', 'VERB'}",{'NOUN'},True,campaign,street,"{'heated', 'clean'}"
+11784,636__rear_8__plant_11,2,1,1,1,0,0.604274035289,636,plant,rear,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,plant,rear,"{'heated', 'bright'}"
+11855,1302__life_9__line_5,2,1,1,1,0,0.5913586281,1302,line,life,"{'NOUN', 'VERB'}",{'NOUN'},True,line,life,{'bright'}
+11890,2573__protection_14__loss_11,3,2,2,2,1,1.52216742245,2573,loss,protection,{'NOUN'},{'NOUN'},True,loss,protection,"{'heavy', 'clear'}"
+11911,8434__ring_4__line_8,3,3,0,0,0,0.543177872948,8434,ring,line,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,ring,line,"{'solid', 'bright'}"
+11923,3073__earnings_7__prospects_5,2,1,1,0,0,0.379238599167,3073,prospects,earnings,{'NOUN'},{'NOUN'},True,prospect,earnings,"{'strong', 'solid', 'dim', 'weak'}"
+11927,7086__alternative_20__justification_2,3,0,0,0,0,0.157837707274,7086,justification,alternative,{'NOUN'},"{'ADJ', 'NOUN'}",True,justification,alternative,{'clear'}
+11934,3552__concentration_18__element_9,1,0,0,0,0,0.166055434504,3552,concentration,element,{'NOUN'},{'NOUN'},True,concentration,element,{'dense'}
+11950,838__result_3__rule_6,3,1,1,0,0,0.405363674865,838,result,rule,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,result,rule,"{'brilliant', 'murky', 'clear', 'weak'}"
+11958,7017__head_27__elements_31,3,2,2,2,1,1.02961588592,7017,head,elements,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,head,element,{'dense'}
+11959,3119__controversy_28__campaign_32,0,0,0,0,0,0.203022634137,3119,controversy,campaign,{'NOUN'},"{'NOUN', 'VERB'}",True,controversy,campaign,"{'heated', 'bitter'}"
+12042,6151__information_22__origins_20,2,1,1,1,0,0.627733779924,6151,origins,information,{'NOUN'},{'NOUN'},True,origin,information,{'murky'}
+12057,4537__data_20__value_23,3,1,0,0,0,0.304246946698,4537,data,value,{'NOUN'},"{'NOUN', 'VERB'}",True,data,value,{'clear'}
+12063,3163__managers_22__service_19,2,1,1,0,0,0.362339387491,3163,service,managers,"{'X', 'NOUN', 'VERB'}",{'NOUN'},True,service,manager,"{'brilliant', 'bright'}"
+12065,7057__election_48__deposit_42,1,1,0,0,0,0.299853919769,7057,deposit,election,"{'NOUN', 'VERB'}",{'NOUN'},True,deposit,election,{'heavy'}
+12077,1853__grass_28__roots_29,3,2,1,1,1,1.04881619571,1853,grass,roots,{'NOUN'},{'NOUN'},True,grass,root,{'rough'}
+12108,6574__children_13__backgrounds_10,2,1,0,0,0,0.280526408725,6574,backgrounds,children,{'NOUN'},{'NOUN'},True,background,child,{'bright'}
+12114,3568__reply_2__call_7,1,0,0,0,0,0.17638789865,3568,reply,call,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,reply,call,{'clear'}
+12137,6438__school_2__reactions_11,1,1,0,0,0,0.239714920179,6438,reactions,school,{'NOUN'},"{'NOUN', 'VERB'}",True,reaction,school,{'brilliant'}
+12153,7075__advice_20__exchange_16,2,1,1,1,0,0.578854281965,7075,exchange,advice,"{'NOUN', 'VERB'}",{'NOUN'},True,exchange,advice,"{'warm', 'weak'}"
+12154,1709__patient_7__treatment_9,2,1,1,0,0,0.363235357821,1709,patient,treatment,"{'ADJ', 'NOUN'}",{'NOUN'},True,patient,treatment,{'heavy'}
+12168,4569__research_11__role_8,2,1,1,0,0,0.429212053013,4569,research,role,{'NOUN'},{'NOUN'},True,research,role,"{'brilliant', 'clear', 'shallow', 'strong'}"
+12169,859__doubt_30__shadow_27,3,2,2,2,0,1.33909201072,859,shadow,doubt,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,shadow,doubt,{'cold'}
+12200,6303__personality_13__role_21,2,1,1,0,0,0.406851582613,6303,personality,role,{'NOUN'},{'NOUN'},True,personality,role,"{'brilliant', 'strong'}"
+12212,2731__wind_15__blows_16,2,1,1,1,0,0.578854281965,2731,wind,blows,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,wind,blow,{'strong'}
+12218,7019__party_13__strategy_2,1,0,0,0,0,0.161833212282,7019,party,strategy,"{'NOUN', 'VERB'}",{'NOUN'},True,party,strategy,{'brilliant'}
+12235,6671__circumstances_17__movement_23,3,1,0,0,0,0.25611513876,6671,circumstances,movement,{'NOUN'},{'NOUN'},True,circumstance,movement,{'bitter'}
+12256,2546__law_7__systems_4,2,1,1,1,0,0.662852827543,2546,systems,law,{'NOUN'},{'NOUN'},True,system,law,{'murky'}
+12323,1296__body_4__art_12,3,3,3,0,0,1.14071977305,1296,art,body,"{'NOUN', 'VERB'}",{'NOUN'},True,art,body,{'clean'}
+12338,6426__schools_13__pupils_10,1,1,1,0,0,0.486153079866,6426,pupils,schools,{'NOUN'},{'NOUN'},True,pupil,school,"{'brilliant', 'bright'}"
+12347,1477__law_19__reduction_18,3,2,2,1,0,0.679301361559,1477,reduction,law,{'NOUN'},{'NOUN'},True,reduction,law,"{'heavy', 'clear'}"
+12354,3640__notion_8__form_3,1,0,0,0,0,0.166055434504,3640,form,notion,"{'NOUN', 'VERB'}",{'NOUN'},True,form,notion,"{'dim', 'soft'}"
+12370,1930__investment_43__community_44,2,1,1,0,0,0.363405418025,1930,investment,community,{'NOUN'},{'NOUN'},True,investment,community,"{'brilliant', 'clear', 'strong'}"
+12394,3641__argument_7__line_5,2,2,1,1,1,0.68189232895,3641,line,argument,"{'NOUN', 'VERB'}",{'NOUN'},True,line,argument,{'solid'}
+12427,2155__kitchen_20__round_18,1,1,1,0,0,0.443350009658,2155,round,kitchen,"{'ADJ', 'VERB', 'ADV', 'ADP', 'NOUN'}",{'NOUN'},True,round,kitchen,{'clean'}
+12432,1096__trains_19__toy_22,3,3,2,2,1,1.36175105215,1096,trains,toy,"{'NOUN', 'VERB'}",{'NOUN'},True,train,toy,"{'noisy', 'clean'}"
+12460,4483__distances_19__deal_17,1,1,0,0,0,0.330259383903,4483,deal,distances,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,distance,{'rough'}
+12480,1208__building_31__system_32,2,1,1,0,0,0.429842028341,1208,building,system,"{'NOUN', 'VERB'}",{'NOUN'},True,building,system,{'dense'}
+12483,3537__effort_67__operation_63,2,1,0,0,0,0.296595359189,3537,operation,effort,{'NOUN'},{'NOUN'},True,operation,effort,{'brilliant'}
+12488,5346__imagination_48__trick_45,3,2,1,1,0,0.776239419149,5346,trick,imagination,{'NOUN'},{'NOUN'},True,trick,imagination,{'brilliant'}
+12514,638__homes_15__survey_12,2,1,1,1,0,0.531665020385,638,survey,homes,"{'NOUN', 'VERB'}",{'NOUN'},True,survey,home,{'rough'}
+12531,1629__play_13__wing_7,2,1,1,0,0,0.421787439439,1629,play,wing,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,play,wing,{'bright'}
+12539,6151__terms_17__origins_20,2,2,1,1,0,0.682883394413,6151,terms,origins,"{'NOUN', 'VERB'}",{'NOUN'},True,term,origin,{'murky'}
+12592,3026__tears_5__home_3,3,2,0,0,0,0.409231018149,3026,home,tears,"{'NOUN', 'VERB'}",{'NOUN'},True,home,tear,"{'warm', 'bitter'}"
+12608,2990__shapes_27__reflectors_30,2,2,1,1,1,0.676453364279,2990,shapes,reflectors,"{'NOUN', 'VERB'}",{'NOUN'},True,shape,reflector,{'bright'}
+12623,2606__answer_4__drawing_7,3,1,1,1,0,0.662351221081,2606,answer,drawing,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,answer,drawing,{'rough'}
+12643,3523__sympathy_28__sector_32,1,1,1,0,0,0.456958880626,3523,sympathy,sector,{'NOUN'},{'NOUN'},True,sympathy,sector,{'warm'}
+12678,126__embassies_12__powers_6,2,2,1,0,0,0.517188222219,126,embassies,powers,{'NOUN'},"{'NOUN', 'VERB'}",True,embassy,power,{'smooth'}
+12717,5756__sky_21__beam_17,3,3,3,0,0,1.16041923026,5756,beam,sky,{'NOUN'},{'NOUN'},True,beam,sky,"{'brilliant', 'bright'}"
+12720,1470__increase_21__ceiling_20,3,3,2,2,0,1.09043925968,1470,ceiling,increase,{'NOUN'},"{'NOUN', 'VERB'}",True,ceiling,increase,"{'heavy', 'smooth'}"
+12755,177__world_15__body_17,2,2,1,1,0,0.756509584431,177,world,body,{'NOUN'},{'NOUN'},True,world,body,"{'cold', 'warm', 'icy'}"
+12782,7012__beginnings_2__campaign_10,2,1,0,0,0,0.321649046432,7012,campaign,beginnings,"{'NOUN', 'VERB'}",{'NOUN'},True,campaign,beginning,"{'brilliant', 'rough'}"
+12784,1296__body_4__canvas_7,3,3,3,2,0,1.54923741915,1296,body,canvas,{'NOUN'},{'NOUN'},True,body,canvas,"{'rough', 'heavy'}"
+12788,6873__children_24__past_23,2,1,1,1,1,0.724676135804,6873,past,children,"{'ADV', 'ADP', 'ADJ', 'NOUN'}",{'NOUN'},True,past,child,"{'brilliant', 'rough', 'bitter', 'dim'}"
+12810,6287__purpose_18__introduction_8,1,1,0,0,0,0.323102914744,6287,purpose,introduction,{'NOUN'},{'NOUN'},True,purpose,introduction,{'clear'}
+12811,2866__families_12__fighting_11,2,1,1,1,1,0.613742030062,2866,fighting,families,"{'NOUN', 'VERB'}",{'NOUN'},True,fighting,family,"{'brilliant', 'bitter'}"
+12836,6658__example_17__concrete_16,1,1,1,1,1,0.654822237927,6658,concrete,example,"{'ADJ', 'NOUN'}",{'NOUN'},True,concrete,example,{'solid'}
+12850,8619__mountains_10__heart_7,3,2,2,1,1,1.27410299991,8619,mountains,heart,{'NOUN'},{'NOUN'},True,mountain,heart,"{'heavy', 'soft', 'cold', 'clean', 'warm', 'icy'}"
+12859,5458__mind_9__direction_15,2,1,1,0,0,0.406851582613,5458,direction,mind,"{'X', 'NOUN'}","{'NOUN', 'VERB'}",True,direction,mind,{'clear'}
+12861,3197__role_34__materials_7,2,0,0,0,0,0.161833212282,3197,role,materials,{'NOUN'},{'NOUN'},True,role,material,"{'rough', 'clear', 'strong'}"
+12880,6326__relationships_22__attitude_19,1,1,1,0,0,0.38252384674,6326,attitude,relationships,{'NOUN'},{'NOUN'},True,attitude,relationship,"{'brilliant', 'sour', 'deep', 'clear', 'cold', 'bitter', 'warm'}"
+12888,6159__team_33__conducts_34,1,1,0,0,0,0.267965709937,6159,team,conducts,{'NOUN'},"{'NOUN', 'VERB'}",True,team,conduct,{'brilliant'}
+12899,1784__turnover_8__activities_6,1,1,0,0,0,0.239714920179,1784,activities,turnover,{'NOUN'},{'NOUN'},True,activity,turnover,{'heavy'}
+12923,6942__child_22__leaves_17,1,1,1,0,0,0.490199202264,6942,leaves,child,"{'NOUN', 'VERB'}",{'NOUN'},True,leaf,child,"{'brilliant', 'rough', 'bright', 'golden', 'bitter'}"
+12930,2129__mind_25__turnover_17,3,1,0,0,0,0.3229669537,2129,turnover,mind,{'NOUN'},"{'NOUN', 'VERB'}",True,turnover,mind,"{'strong', 'weak'}"
+12936,9118__cut_23__sticks_27,3,2,1,0,0,0.46146048343,9118,cut,sticks,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,cut,stick,{'smooth'}
+12947,3580__argument_30__formulation_16,1,1,0,0,0,0.344930713493,3580,formulation,argument,{'NOUN'},{'NOUN'},True,formulation,argument,{'weak'}
+12971,11947__girl_8__pig_13,3,3,3,0,0,1.09949755997,11947,pig,girl,{'NOUN'},{'NOUN'},True,pig,girl,"{'mad', 'fat'}"
+12973,1365__child_10__loss_7,2,2,1,1,0,0.66433994355,1365,child,loss,{'NOUN'},{'NOUN'},True,child,loss,"{'dim', 'heavy', 'shallow', 'cold', 'bitter'}"
+12975,6380__organization_34__changes_27,1,1,1,0,0,0.392593240199,6380,changes,organization,"{'NOUN', 'VERB'}",{'NOUN'},True,change,organization,{'smooth'}
+12984,4601__woman_19__air_22,3,2,2,0,0,0.899253804113,4601,woman,air,"{'NOUN', 'VERB'}",{'NOUN'},True,woman,air,"{'icy', 'warm', 'bright', 'cold'}"
+13010,16197__month_17__hands_22,3,1,1,0,0,0.510161821104,16197,month,hands,{'NOUN'},{'NOUN'},True,month,hand,"{'rough', 'warm', 'cold'}"
+13012,6431__issue_12__shift_7,3,1,1,0,0,0.370467441431,6431,issue,shift,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,issue,shift,{'clear'}
+13015,1488__company_17__successor_16,2,2,2,1,1,0.765674200208,1488,successor,company,{'NOUN'},{'NOUN'},True,successor,company,{'brilliant'}
+13025,3518__decline_52__spirit_55,2,2,2,1,0,0.672284273133,3518,decline,spirit,"{'NOUN', 'VERB'}",{'NOUN'},True,decline,spirit,{'strong'}
+13028,6428__teachers_7__attitudes_9,2,2,1,0,0,0.450161653877,6428,teachers,attitudes,{'NOUN'},{'NOUN'},True,teacher,attitude,{'brilliant'}
+13040,12634__information_5__spot_3,3,3,3,2,1,1.55310329639,12634,spot,information,"{'NOUN', 'VERB'}",{'NOUN'},True,spot,information,{'clear'}
+13052,6473__authority_18__cuts_19,2,2,1,1,1,0.726291484158,6473,authority,cuts,{'NOUN'},"{'NOUN', 'VERB'}",True,authority,cut,{'clear'}
+13058,3588__discussions_5__roots_8,2,2,1,1,0,0.655562641131,3588,discussions,roots,{'NOUN'},{'NOUN'},True,discussion,root,{'bitter'}
+13071,2513__chapter_2__deals_3,2,1,1,1,0,0.612199607092,2513,chapter,deals,{'NOUN'},"{'NOUN', 'VERB'}",True,chapter,deal,"{'brilliant', 'rough', 'murky'}"
+13079,835__cars_10__guide_7,1,1,0,0,0,0.344930713493,835,cars,guide,{'NOUN'},"{'NOUN', 'VERB'}",True,car,guide,{'bright'}
+13126,1059__effect_21__drama_8,1,1,0,0,0,0.330259383903,1059,effect,drama,"{'NOUN', 'VERB'}",{'NOUN'},True,effect,drama,{'brilliant'}
+13132,1356__dress_24__power_19,3,3,2,2,2,1.79750295503,1356,power,dress,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,power,dress,{'smooth'}
+13139,6455__choice_21__changes_16,3,2,1,0,0,0.37951793892,6455,changes,choice,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,change,choice,{'clear'}
+13142,6432__concerns_39__appeal_33,2,1,1,1,1,0.63916045069,6432,appeal,concerns,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,appeal,concern,"{'warm', 'clear', 'strong'}"
+13152,1104__track_42__mix_39,3,1,0,0,0,0.346928388636,1104,mix,track,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,mix,track,{'icy'}
+13202,6405__teachers_3__subjects_10,2,1,1,0,0,0.361651454654,6405,subjects,teachers,"{'NOUN', 'VERB'}",{'NOUN'},True,subject,teacher,{'bright'}
+13205,3188__knowledge_3__increase_2,2,1,1,1,0,0.578854281965,3188,increase,knowledge,"{'NOUN', 'VERB'}",{'NOUN'},True,increase,knowledge,"{'clear', 'shallow', 'strong', 'weak'}"
+13222,1723__system_16__deal_11,2,1,1,1,0,0.659193628487,1723,deal,system,"{'NOUN', 'VERB'}",{'NOUN'},True,deal,system,{'murky'}
+13227,1561__letter_9__tone_3,1,0,0,0,0,0.190408255052,1561,tone,letter,"{'NOUN', 'VERB'}",{'NOUN'},True,tone,letter,"{'heated', 'sweet', 'cold', 'bitter', 'warm', 'icy'}"
+13233,1164__building_19__challenge_22,2,2,1,0,0,0.44425694905,1164,building,challenge,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,building,challenge,{'heated'}
+13234,6461__people_12__focus_19,2,1,0,0,0,0.317466421744,6461,people,focus,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,people,focus,{'heavy'}
+13249,1776__contribution_16__rise_8,1,1,0,0,0,0.239714920179,1776,contribution,rise,{'NOUN'},"{'NOUN', 'VERB'}",True,contribution,rise,"{'clear', 'weak'}"
+13269,1838__people_5__revolution_8,1,1,0,0,0,0.323701382771,1838,people,revolution,"{'NOUN', 'VERB'}",{'NOUN'},True,people,revolution,"{'bitter', 'dim'}"
+13272,643__air_12__standard_9,2,1,0,0,0,0.385310145152,643,air,standard,{'NOUN'},"{'ADJ', 'NOUN'}",True,air,standard,"{'murky', 'clear'}"
+13341,7032__election_32__break_37,3,2,2,1,1,1.17870583122,7032,election,break,{'NOUN'},"{'NOUN', 'VERB'}",True,election,break,"{'bitter', 'clean'}"
+13378,6380__science_30__pupils_23,1,1,0,0,0,0.301505355478,6380,pupils,science,{'NOUN'},{'NOUN'},True,pupil,science,"{'brilliant', 'bright'}"
+13379,3748__chapter_3__role_11,2,1,0,0,0,0.292906914275,3748,role,chapter,{'NOUN'},{'NOUN'},True,role,chapter,"{'brilliant', 'rough', 'murky'}"
+13389,1249__contrast_7__voice_2,3,1,1,0,0,0.572278732804,1249,voice,contrast,{'NOUN'},"{'NOUN', 'VERB'}",True,voice,contrast,"{'strong', 'bitter', 'bright'}"
+13395,6372__science_14__proportion_2,3,2,1,0,0,0.351703015446,6372,science,proportion,{'NOUN'},{'NOUN'},True,science,proportion,{'heavy'}
+13400,1971__breeze_24__light_23,2,2,1,1,1,0.765157868523,1971,light,breeze,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,light,breeze,"{'warm', 'cold'}"
+13428,2563__persons_12__serving_13,2,2,1,1,1,0.765157868523,2563,persons,serving,{'NOUN'},"{'NOUN', 'VERB'}",True,person,serving,"{'warm', 'cold'}"
+13459,12841__centre_15__line_12,1,1,1,0,0,0.370467441431,12841,line,centre,"{'NOUN', 'VERB'}",{'NOUN'},True,line,centre,{'bright'}
+13500,505__defender_18__deal_30,1,0,0,0,0,0.190408255052,505,defender,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,defender,deal,{'brilliant'}
+13524,3528__governments_17__pay_19,1,1,0,0,0,0.343622520868,3528,governments,pay,{'NOUN'},"{'NOUN', 'VERB'}",True,government,pay,{'bitter'}
+13536,13569__road_21__bit_25,1,1,1,0,0,0.378663300407,13569,road,bit,{'NOUN'},"{'NOUN', 'VERB'}",True,road,bit,{'rough'}
+13564,6870__children_8__views_6,2,2,1,0,0,0.407456338154,6870,views,children,"{'NOUN', 'VERB'}",{'NOUN'},True,view,child,"{'bitter', 'sweet'}"
+13569,2615__consequences_36__element_28,3,0,0,0,0,0.289574171178,2615,element,consequences,{'NOUN'},{'NOUN'},True,element,consequence,{'heavy'}
+13574,7105__advantage_16__hand_4,3,2,1,1,0,0.541000824705,7105,advantage,hand,{'NOUN'},"{'NOUN', 'VERB'}",True,advantage,hand,{'strong'}
+13591,931__meal_10__wash_5,3,3,2,1,0,1.10910098012,931,meal,wash,{'NOUN'},"{'NOUN', 'VERB'}",True,meal,wash,"{'warm', 'cold'}"
+13612,7117__valley_20__floor_21,3,2,1,0,0,0.714125526603,7117,valley,floor,{'NOUN'},{'NOUN'},True,valley,floor,"{'deep', 'warm', 'shallow', 'cold'}"
+13632,3706__risk_17__attitudes_14,1,0,0,0,0,0.161833212282,3706,attitudes,risk,{'NOUN'},"{'NOUN', 'VERB'}",True,attitude,risk,{'clear'}
+13640,2961__party_28__forces_24,1,0,0,0,0,0.203481758992,2961,forces,party,"{'X', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,force,party,{'strong'}
+13641,6634__conflict_5__products_2,3,2,1,1,1,0.707661167605,6634,products,conflict,{'NOUN'},"{'NOUN', 'VERB'}",True,product,conflict,{'heated'}
+13650,8102__news_7__break_5,2,2,1,1,0,0.703719833107,8102,break,news,"{'NOUN', 'VERB'}",{'NOUN'},True,break,news,{'bitter'}
+13663,6419__girls_26__attitudes_28,2,1,0,0,0,0.305032931719,6419,girls,attitudes,{'NOUN'},{'NOUN'},True,girl,attitude,"{'brilliant', 'warm'}"
+13736,6866__couple_9__look_13,1,1,1,1,0,0.521914874054,6866,look,couple,"{'NOUN', 'VERB'}",{'NOUN'},True,look,couple,{'sweet'}
+13743,4984__conditions_14__tomb_21,3,3,3,2,1,1.41765733857,4984,conditions,tomb,{'NOUN'},{'NOUN'},True,condition,tomb,{'icy'}
+13753,5655__ladies_38__win_36,2,2,2,0,0,0.788263373132,5655,win,ladies,"{'NOUN', 'VERB'}",{'NOUN'},True,win,lady,"{'brilliant', 'sweet'}"
+13774,7083__party_13__support_14,2,2,1,1,0,0.648401634865,7083,party,support,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,party,support,{'heavy'}
+13776,4528__management_6__tool_7,1,1,0,0,0,0.425465709937,4528,management,tool,{'NOUN'},"{'ADJ', 'NOUN'}",True,management,tool,{'heavy'}
+13794,2557__murder_18__calculations_21,2,1,1,0,0,0.408613021706,2557,murder,calculations,"{'NOUN', 'VERB'}",{'NOUN'},True,murder,calculation,{'cold'}
+13808,6912__examinations_6__conduct_4,1,1,1,0,0,0.490199202264,6912,conduct,examinations,"{'NOUN', 'VERB'}",{'NOUN'},True,conduct,examination,"{'brilliant', 'rough'}"
+13812,893__moment_29__focus_25,2,1,1,0,0,0.405128379649,893,focus,moment,"{'NOUN', 'VERB'}",{'NOUN'},True,focus,moment,{'heavy'}
+13831,6440__science_2__home_5,3,2,1,0,0,0.5716120133,6440,science,home,{'NOUN'},"{'NOUN', 'VERB'}",True,science,home,{'sweet'}
+13853,1509__safety_38__shift_30,2,2,2,1,0,0.583824354117,1509,shift,safety,"{'NOUN', 'VERB'}",{'NOUN'},True,shift,safety,{'clear'}
+13854,1492__industry_14__run-up_21,2,1,0,0,0,0.309031115365,1492,industry,run-up,{'NOUN'},"{'ADJ', 'NOUN'}",True,industry,run-up,{'smooth'}
+13874,3450__children_21__proportion_19,2,1,1,1,1,0.636919133078,3450,proportion,children,{'NOUN'},{'NOUN'},True,proportion,child,"{'rough', 'heavy'}"
+13890,1275__value_7__rise_3,2,1,1,1,0,0.669849096562,1275,rise,value,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,rise,value,{'clear'}
+13899,6469__chapter_2__account_5,2,2,1,1,1,0.676453364279,6469,chapter,account,{'NOUN'},"{'NOUN', 'VERB'}",True,chapter,account,"{'brilliant', 'rough', 'bitter'}"
+13951,3098__issue_4__plans_2,2,2,1,1,0,0.616830083151,3098,plans,issue,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,plan,issue,"{'clear', 'weak'}"
+13954,2770__north_3__borders_7,2,1,1,0,0,0.35410315787,2770,north,borders,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,north,border,{'heated'}
+13984,6582__life_13__balance_8,2,1,1,1,1,0.63916045069,6582,life,balance,{'NOUN'},"{'NOUN', 'VERB'}",True,life,balance,"{'rough', 'clean'}"
+13989,8552__issue_18__force_16,1,1,1,0,0,0.490199202264,8552,force,issue,"{'X', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,force,issue,{'weak'}
+14049,6599__question_28__answer_25,1,1,1,1,0,0.583933267337,6599,answer,question,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,answer,question,"{'brilliant', 'clear', 'soft', 'clean'}"
+14059,1893__form_14__structure_18,2,1,1,1,0,0.46360890445,1893,form,structure,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,form,structure,{'smooth'}
+14062,3029__house_3__trouble_18,2,1,0,0,0,0.312713010678,3029,trouble,house,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,trouble,house,{'bitter'}
+14066,951__word_11__feeling_4,1,1,1,0,0,0.370467441431,951,word,feeling,{'NOUN'},"{'NOUN', 'VERB'}",True,word,feeling,"{'sweet', 'strong', 'bitter', 'sour'}"
+14082,1870__blocks_16__construction_13,2,2,1,1,0,0.574426023537,1870,construction,blocks,"{'X', 'NOUN'}",{'NOUN'},True,construction,block,{'solid'}
+14099,9052__rock_15__band_16,1,1,1,0,0,0.459284002183,9052,rock,band,"{'NOUN', 'VERB'}",{'NOUN'},True,rock,band,{'bright'}
+14114,594__oil_13__business_14,3,2,2,1,0,0.764105229164,594,oil,business,{'NOUN'},{'NOUN'},True,oil,business,"{'brilliant', 'heated', 'murky', 'smooth', 'clear', 'bitter'}"
+14122,2641__reference_10__line_8,2,2,1,1,1,0.600278899571,2641,reference,line,{'NOUN'},"{'NOUN', 'VERB'}",True,reference,line,"{'solid', 'bright'}"
+14128,1869__consciousness_8__revolution_5,3,3,3,3,2,1.9753772591,1869,revolution,consciousness,{'NOUN'},{'NOUN'},True,revolution,consciousness,{'dim'}
+14132,2831__service_28__consumers_25,2,1,1,1,0,0.687975356893,2831,consumers,service,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,consumer,service,{'bright'}
+14155,1761__results_25__impact_21,1,1,0,0,0,0.337032854536,1761,impact,results,{'NOUN'},"{'NOUN', 'VERB'}",True,impact,result,{'clear'}
+14187,6304__information_19__pieces_17,1,1,1,1,0,0.511801232705,6304,pieces,information,{'NOUN'},{'NOUN'},True,piece,information,{'solid'}
+14209,4549__method_2__offers_18,2,1,1,1,0,0.719617706519,4549,offers,method,"{'NOUN', 'VERB'}",{'NOUN'},True,offer,method,"{'brilliant', 'clear', 'cold'}"
+14278,6223__effort_12__design_11,3,2,2,2,1,1.57921038566,6223,design,effort,"{'NOUN', 'VERB'}",{'NOUN'},True,design,effort,"{'bright', 'strong'}"
+14284,5443__day_8__heart_2,3,3,0,0,0,0.461679168593,5443,heart,day,{'NOUN'},{'NOUN'},True,heart,day,"{'sweet', 'cold', 'bitter', 'warm', 'icy'}"
+14287,6589__role_6__subject_9,2,2,1,1,0,0.654075162843,6589,role,subject,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,role,subject,{'murky'}
+14297,6614__task_10__recognition_29,2,1,1,0,0,0.398719747729,6614,task,recognition,{'NOUN'},{'NOUN'},True,task,recognition,{'clear'}
+14305,4808__sadness_6__hint_4,2,2,1,1,0,0.824570982985,4808,hint,sadness,"{'NOUN', 'VERB'}",{'NOUN'},True,hint,sadness,{'heavy'}
+14320,2731__cold_17__blows_16,3,3,1,1,0,0.857490677576,2731,blows,cold,"{'NOUN', 'VERB'}","{'ADV', 'ADJ', 'NOUN'}",True,blow,cold,{'bitter'}
+14329,3602__experience_25__break_22,2,1,1,1,0,0.531665020385,3602,break,experience,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,break,experience,{'bitter'}
+14335,7017__leader_8__role_5,3,1,1,1,0,0.718912958914,7017,role,leader,{'NOUN'},{'NOUN'},True,role,leader,"{'brilliant', 'clear'}"
+14344,3470__methods_3__help_5,1,1,1,1,0,0.504554630774,3470,methods,help,{'NOUN'},"{'NOUN', 'PRT', 'VERB'}",True,method,help,{'brilliant'}
+14345,6716__claim_28__service_31,1,1,1,1,1,0.641717981073,6716,claim,service,"{'NOUN', 'VERB'}","{'X', 'NOUN', 'VERB'}",True,claim,service,{'shallow'}
+14357,3504__terms_20__following_19,1,1,1,0,0,0.424619133459,3504,following,terms,"{'ADP', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,following,term,{'strong'}
+14361,1680__ball_10__wall_7,1,0,0,0,0,0.203481758992,1680,ball,wall,{'NOUN'},"{'NOUN', 'VERB'}",True,ball,wall,"{'smooth', 'solid', 'rough', 'bright', 'soft', 'icy'}"
+14377,650__operator_12__cloud_17,2,1,0,0,0,0.332704227356,650,operator,cloud,{'NOUN'},{'NOUN'},True,operator,cloud,{'smooth'}
+14404,1717__business_10__service_7,3,1,1,0,0,0.398064894108,1717,business,service,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,business,service,"{'brilliant', 'bright', 'smooth'}"
+14433,6284__familiarity_19__stages_16,2,2,1,1,0,0.680529062716,6284,stages,familiarity,{'NOUN'},{'NOUN'},True,stage,familiarity,{'warm'}
+14449,742__actors_22__cast_16,2,1,1,1,0,0.662852827543,742,cast,actors,"{'NOUN', 'VERB'}",{'NOUN'},True,cast,actor,{'brilliant'}
+14465,3603__relation_10__continuities_4,1,1,0,0,0,0.476651292949,3603,relation,continuities,{'NOUN'},{'NOUN'},True,relation,continuity,{'smooth'}
+14470,469__evidence_17__looks_19,2,1,1,0,0,0.35410315787,469,evidence,looks,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,evidence,look,{'cold'}
+14507,3154__future_16__plans_17,1,1,1,0,0,0.391318173743,3154,future,plans,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,future,plan,{'brilliant'}
+14534,1534__routine_6__calls_7,3,1,1,1,1,0.66567711247,1534,routine,calls,"{'ADJ', 'NOUN'}","{'X', 'NOUN', 'VERB'}",True,routine,call,{'brilliant'}
+14549,1341__surface_15__ribbon_4,3,1,0,0,0,0.318584434166,1341,surface,ribbon,"{'ADJ', 'NOUN'}",{'NOUN'},True,surface,ribbon,"{'brilliant', 'bright'}"
+14560,3603__relation_10__images_14,2,2,1,1,0,0.684377549799,3603,relation,images,{'NOUN'},{'NOUN'},True,relation,image,{'strong'}
+14582,1930__assurances_31__security_34,2,1,0,0,0,0.285588803758,1930,assurances,security,{'NOUN'},{'NOUN'},True,assurance,security,{'clear'}
+14593,1875__significance_2__message_7,2,2,1,1,0,0.553754822936,1875,significance,message,{'NOUN'},{'NOUN'},True,significance,message,{'deep'}
+14600,12365__weeks_10__monster_15,3,2,0,0,0,0.319351383831,12365,weeks,monster,{'NOUN'},{'NOUN'},True,week,monster,{'cold'}
+14601,3196__follow-up_19__plan_20,2,2,2,1,0,0.796493055911,3196,follow-up,plan,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,follow-up,plan,{'brilliant'}
+14615,3097__claims_19__press_17,2,1,1,1,0,0.642488321003,3097,press,claims,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,press,claim,{'shallow'}
+14624,3550__government_7__support_8,1,1,1,1,1,0.639191860351,3550,government,support,{'NOUN'},"{'NOUN', 'VERB'}",True,government,support,"{'heavy', 'clear'}"
+14663,3632__protest_16__ground_13,2,2,1,1,0,0.608296568791,3632,ground,protest,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,ground,protest,{'heated'}
+14666,8159__word_10__loss_6,2,2,1,1,0,0.679489270806,8159,word,loss,{'NOUN'},{'NOUN'},True,word,loss,"{'bitter', 'clear', 'dim', 'cold'}"
+14703,3515__statement_41__subject_44,2,2,1,0,0,0.385252966738,3515,statement,subject,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,statement,subject,"{'heated', 'murky'}"
+14724,2578__trial_18__stage_22,2,1,1,1,0,0.538179610907,2578,trial,stage,{'NOUN'},"{'NOUN', 'VERB'}",True,trial,stage,{'bitter'}
+14726,1458__table_11__top_10,2,1,1,1,1,0.737862559103,1458,top,table,"{'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,top,table,"{'bright', 'cold'}"
+14737,6213__people_16__account_12,2,2,1,1,0,0.674106091993,6213,account,people,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,account,people,"{'brilliant', 'rough', 'bitter'}"
+14742,4799__job_2__life_10,3,2,2,2,0,1.10739480322,4799,life,job,{'NOUN'},{'NOUN'},True,life,job,"{'sweet', 'shallow', 'bright', 'clean'}"
+14761,6425__beliefs_24__change_21,2,1,1,0,0,0.39918290653,6425,change,beliefs,"{'NOUN', 'VERB'}",{'NOUN'},True,change,belief,{'deep'}
+14767,3176__drinking_27__rounds_31,1,1,1,1,0,0.523402245802,3176,drinking,rounds,"{'NOUN', 'VERB'}",{'NOUN'},True,drinking,round,{'clean'}
+14792,6210__individual_18__feeling_15,1,1,0,0,0,0.320432681294,6210,feeling,individual,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,feeling,individual,{'sweet'}
+14796,3130__health_14__emphasis_11,2,1,1,0,0,0.459291979155,3130,emphasis,health,{'NOUN'},{'NOUN'},True,emphasis,health,{'clear'}
+14797,6822__children_77__ground_70,3,2,1,0,0,0.557316564527,6822,ground,children,"{'NOUN', 'VERB'}",{'NOUN'},True,ground,child,"{'rough', 'shallow', 'bright', 'cold', 'warm'}"
+14839,6422__concern_16__start_19,2,2,1,1,0,0.822910129632,6422,concern,start,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,concern,start,{'strong'}
+14860,737__responsibility_14__talk_9,3,2,1,0,0,0.484307861739,737,responsibility,talk,{'NOUN'},"{'NOUN', 'VERB'}",True,responsibility,talk,{'smooth'}
+14861,6805__rejection_7__accounts_10,3,1,1,0,0,0.401290080507,6805,accounts,rejection,"{'NOUN', 'VERB'}",{'NOUN'},True,account,rejection,"{'clear', 'bitter'}"
+14886,3537__run_30__tackle_29,2,2,2,0,0,0.452831732163,3537,tackle,run,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,tackle,run,"{'brilliant', 'clean'}"
+14932,1460__influence_9__bid_7,2,2,1,1,0,0.574426023537,1460,bid,influence,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,bid,influence,"{'clear', 'strong'}"
+14935,996__patch_8__picture_18,3,0,0,0,0,0.310002080777,996,picture,patch,"{'NOUN', 'VERB'}",{'NOUN'},True,picture,patch,{'bright'}
+14951,810__claim_23__support_21,2,1,1,0,0,0.391318173743,810,support,claim,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,support,claim,"{'heavy', 'shallow'}"
+15000,6339__life_8__phases_6,2,1,1,1,0,0.640574814858,6339,phases,life,{'NOUN'},{'NOUN'},True,phase,life,{'warm'}
+15009,2878__women_3__deal_9,2,1,0,0,0,0.279238408081,2878,women,deal,{'NOUN'},"{'NOUN', 'VERB'}",True,woman,deal,"{'brilliant', 'sweet'}"
+15042,936__mind_10__cast_8,3,2,1,1,0,0.710078244652,936,mind,cast,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,mind,cast,{'brilliant'}
+15058,4984__imagination_10__exercise_7,3,2,2,2,0,1.39191281152,4984,imagination,exercise,{'NOUN'},"{'NOUN', 'VERB'}",True,imagination,exercise,{'brilliant'}
+15087,1798__gain_9__net_8,1,1,0,0,0,0.305548836532,1798,net,gain,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,net,gain,"{'clear', 'strong'}"
+15089,5169__gas_6__pocket_7,3,2,2,1,1,0.969218590662,5169,gas,pocket,"{'NOUN', 'VERB'}",{'NOUN'},True,gas,pocket,"{'warm', 'cold'}"
+15090,3630__despair_41__jungle_39,3,0,0,0,0,0.284239592813,3630,jungle,despair,{'NOUN'},"{'NOUN', 'VERB'}",True,jungle,despair,{'deep'}
+15178,1207__objective_8__assessment_9,3,2,2,1,1,0.891666762965,1207,objective,assessment,"{'ADJ', 'NOUN'}",{'NOUN'},True,objective,assessment,{'clear'}
+15211,6754__commitment_6__sacrifice_12,2,1,0,0,0,0.347635391534,6754,sacrifice,commitment,"{'NOUN', 'VERB'}",{'NOUN'},True,sacrifice,commitment,{'heavy'}
+15212,6287__purpose_18__limits_30,1,1,0,0,0,0.294767497678,6287,purpose,limits,{'NOUN'},"{'NOUN', 'VERB'}",True,purpose,limit,{'clear'}
+15247,7005__audience_14__reactions_16,2,1,1,0,0,0.421787439439,7005,audience,reactions,{'NOUN'},{'NOUN'},True,audience,reaction,"{'brilliant', 'warm', 'cold'}"
+15254,6303__personality_13__play_18,2,1,1,1,0,0.5913586281,6303,personality,play,{'NOUN'},"{'NOUN', 'VERB'}",True,personality,play,"{'brilliant', 'sweet', 'bright'}"
+15263,780__reference_6__subject_2,2,1,1,0,0,0.406851582613,780,subject,reference,"{'ADJ', 'NOUN', 'VERB'}",{'NOUN'},True,subject,reference,"{'heavy', 'bright'}"
+15285,4569__example_4__role_8,2,1,1,0,0,0.429212053013,4569,example,role,{'NOUN'},{'NOUN'},True,example,role,"{'brilliant', 'clear'}"
+15318,3390__life_13__habits_14,2,1,1,0,0,0.5,3390,life,habits,{'NOUN'},{'NOUN'},True,life,habit,{'clean'}
+15351,265__package_29__sell_26,1,1,0,0,0,2.0,265,sell,package,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,sell,package,{'heavy'}
+15381,7679__direction_18__field_21,1,0,0,0,0,0.5,7679,direction,field,"{'X', 'NOUN'}","{'NOUN', 'VERB'}",True,direction,field,"{'rough', 'clear'}"
+15386,1820__car_5__call_7,1,1,1,1,0,1.5,1820,car,call,{'NOUN'},"{'NOUN', 'VERB'}",True,car,call,{'heated'}
+15416,7765__apple_38__gold_37,3,2,2,1,1,1.0,7765,gold,apple,"{'ADJ', 'NOUN'}",{'NOUN'},True,gold,apple,"{'shiny', 'warm', 'bright'}"
+15425,265__policy_28__package_29,2,2,1,1,1,1.0,265,policy,package,{'NOUN'},"{'NOUN', 'VERB'}",True,policy,package,{'clear'}
+15452,7697__field_3__strength_4,2,2,1,0,0,1.0,7697,field,strength,"{'NOUN', 'VERB'}",{'NOUN'},True,field,strength,{'clear'}
+15489,322__institution_30__home_34,0,0,0,0,0,1.0,322,institution,home,{'NOUN'},"{'NOUN', 'VERB'}",True,institution,home,{'clean'}
+15511,7769__light_22__source_20,1,1,1,0,0,0.5,7769,source,light,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,source,light,{'bright'}
+15516,321__name_9__change_10,3,3,2,1,0,0.5,321,change,name,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,change,name,{'clear'}
+15599,431__expression_18__concrete_17,2,2,2,0,0,2.0,431,concrete,expression,"{'ADJ', 'NOUN'}",{'NOUN'},True,concrete,expression,{'cold'}
+15627,311__sounds_11__ingredients_14,2,1,1,0,0,1.0,311,sounds,ingredients,"{'NOUN', 'VERB'}",{'NOUN'},True,sound,ingredient,{'sweet'}
+15643,2398__dollar_6__bottom_5,3,3,3,3,1,2.0,2398,bottom,dollar,"{'ADJ', 'NOUN'}",{'NOUN'},True,bottom,dollar,{'soft'}
+15655,1446__shine_10__light_11,2,1,1,1,0,0.5,1446,shine,light,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,shine,light,{'bright'}
+15728,3288__view_10__field_8,1,1,1,0,0,1.0,3288,view,field,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,view,field,{'clear'}
+15730,7676__beam_45__current_42,1,0,0,0,0,1.0,7676,current,beam,"{'ADJ', 'NOUN'}",{'NOUN'},True,current,beam,"{'strong', 'weak'}"
+15733,7606__particles_22__current_19,1,1,0,0,0,0.5,7606,current,particles,"{'ADJ', 'NOUN'}",{'NOUN'},True,current,particle,"{'icy', 'cold'}"
+15776,7733__flows_52__current_51,2,1,1,1,1,0.5,7733,current,flows,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,current,flow,"{'warm', 'strong', 'cold', 'weak'}"
+15793,330__minds_19__meeting_14,2,1,1,0,0,1.5,330,meeting,minds,"{'NOUN', 'VERB'}",{'NOUN'},True,meeting,mind,{'brilliant'}
+15809,3422__bone_6__structure_7,1,1,0,0,0,2.0,3422,bone,structure,{'NOUN'},"{'NOUN', 'VERB'}",True,bone,structure,"{'solid', 'heavy'}"
+15834,255__ground_28__centre_27,3,1,1,0,0,0.5,255,centre,ground,{'NOUN'},"{'NOUN', 'VERB'}",True,centre,ground,"{'bright', 'soft'}"
+15843,7727__effect_3__field_7,1,0,0,0,0,0.5,7727,effect,field,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,effect,field,{'deep'}
+15847,1153__windows_9__casting_10,3,2,1,1,0,2.0,1153,casting,windows,"{'NOUN', 'VERB'}",{'NOUN'},True,casting,window,{'brilliant'}
+15866,7891__hair_31__flowers_29,3,3,3,3,2,2.0,7891,flowers,hair,{'NOUN'},{'NOUN'},True,flower,hair,"{'pretty', 'fantastic', 'awesome', 'bright', 'soft', 'golden', 'dry', 'amazing', 'wild'}"
+15897,7607__space_8__functions_6,3,2,2,1,1,1.0,7607,functions,space,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,function,space,{'smooth'}
+15902,240__responsibility_9__body_12,1,1,1,0,0,1.0,240,body,responsibility,{'NOUN'},{'NOUN'},True,body,responsibility,"{'heavy', 'smooth'}"
+15956,7733__surface_63__charge_64,2,1,0,0,0,0.5,7733,surface,charge,"{'ADJ', 'NOUN'}","{'NOUN', 'VERB'}",True,surface,charge,{'heated'}
+15968,58__society_11__power_9,1,1,1,1,0,0.5,58,society,power,{'NOUN'},"{'NOUN', 'VERB'}",True,society,power,{'bitter'}
+16037,7937__anguish_20__impression_18,3,3,3,3,1,2.0,7937,impression,anguish,{'NOUN'},{'NOUN'},True,impression,anguish,{'deep'}
+16120,7690__chance_29__field_26,1,0,0,0,0,0.5,7690,field,chance,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,field,chance,{'clear'}
+16188,3243__evidence_5__lines_3,3,3,2,2,1,1.0,3243,lines,evidence,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,line,evidence,{'solid'}
+16208,434__people_11__handicap_21,2,1,0,0,0,0.5,434,people,handicap,"{'NOUN', 'VERB'}",{'NOUN'},True,people,handicap,{'heavy'}
+16234,7936__anguish_30__sensation_28,2,2,2,1,0,1.0,7936,sensation,anguish,{'NOUN'},{'NOUN'},True,sensation,anguish,{'deep'}
+16256,358__ideas_14__source_12,2,1,1,1,0,1.0,358,source,ideas,{'NOUN'},{'NOUN'},True,source,idea,{'bright'}
+16300,7731__lines_36__field_35,3,1,1,1,0,0.5,7731,field,lines,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,field,line,{'bright'}
+16308,3404__legs_6__structure_3,1,1,1,0,0,0.5,3404,structure,legs,"{'NOUN', 'VERB'}",{'NOUN'},True,structure,leg,"{'heavy', 'smooth'}"
+16319,332__children_20__win_19,2,1,1,0,0,1.0,332,win,children,"{'NOUN', 'VERB'}",{'NOUN'},True,win,child,"{'brilliant', 'sweet'}"
+16327,3239__creature_29__build_25,2,2,1,0,0,1.5,3239,build,creature,"{'NOUN', 'VERB'}",{'NOUN'},True,build,creature,{'strong'}
+16334,3262__engineering_20__piece_18,3,3,2,1,0,1.0,3262,piece,engineering,"{'X', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,piece,engineering,{'bright'}
+16369,7698__edge_10__beam_13,1,1,0,0,0,0.5,7698,edge,beam,"{'NOUN', 'VERB'}",{'NOUN'},True,edge,beam,{'bright'}
+16377,269__demands_12__rejection_10,2,1,0,0,0,1.0,269,rejection,demands,{'NOUN'},"{'NOUN', 'VERB'}",True,rejection,demand,"{'clear', 'strong'}"
+16467,7733__drop_15__potential_14,3,2,1,0,0,1.0,7733,potential,drop,"{'ADJ', 'NOUN'}","{'ADJ', 'NOUN', 'VERB'}",True,potential,drop,{'clear'}
+16498,7871__needles_14__shot_11,3,3,3,2,1,3.0,7871,shot,needles,"{'NOUN', 'VERB'}",{'NOUN'},True,shot,needle,{'clean'}
+16500,7672__theory_7__study_5,2,1,1,1,0,0.5,7672,study,theory,"{'NOUN', 'VERB'}",{'NOUN'},True,study,theory,{'brilliant'}
+16543,7793__coat_26__tent_24,3,2,2,2,2,2.0,7793,tent,coat,{'NOUN'},"{'NOUN', 'VERB'}",True,tent,coat,"{'warm', 'clean'}"
+16549,7706__uniform_8__beam_5,2,2,1,0,0,0.5,7706,beam,uniform,{'NOUN'},"{'ADJ', 'NOUN'}",True,beam,uniform,{'bright'}
+16595,7901__voices_3__rose_4,3,3,2,1,1,1.0,7901,voices,rose,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,voice,rose,{'bright'}
+16602,3325__leaf_10__cushions_11,3,3,2,2,1,1.0,3325,leaf,cushions,{'NOUN'},{'NOUN'},True,leaf,cushion,{'soft'}
+16708,1127__river_38__stretch_34,1,1,0,0,0,0.5,1127,stretch,river,"{'NOUN', 'VERB'}",{'NOUN'},True,stretch,river,{'icy'}
+16742,1127__house_6__run_7,1,1,0,0,0,1.0,1127,house,run,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,house,run,"{'brilliant', 'clean'}"
+16783,1812__bags_10__pack_8,2,1,1,1,0,0.5,1812,bags,pack,{'NOUN'},"{'NOUN', 'VERB'}",True,bag,pack,{'heavy'}
+16794,396__meetings_5__holding_3,1,1,1,0,0,2.0,396,holding,meetings,"{'NOUN', 'VERB'}",{'NOUN'},True,holding,meeting,{'smooth'}
+16796,7622__choice_14__freedom_12,3,2,1,1,0,0.5,7622,freedom,choice,{'NOUN'},"{'ADJ', 'NOUN'}",True,freedom,choice,"{'brilliant', 'sweet'}"
+16805,7733__flows_10__current_9,2,1,1,1,1,0.5,7733,flows,current,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,flow,current,"{'warm', 'strong', 'cold', 'weak'}"
+16858,10686__family_39__runs_36,3,3,2,1,0,1.0,10686,runs,family,"{'NOUN', 'VERB'}",{'NOUN'},True,run,family,{'brilliant'}
+16876,423__business_11__runs_6,1,1,1,1,0,1.0,423,business,runs,{'NOUN'},"{'NOUN', 'VERB'}",True,business,run,"{'brilliant', 'smooth', 'clean'}"
+16896,6007__liberty_23__look_16,1,0,0,0,0,0.5,6007,look,liberty,"{'NOUN', 'VERB'}",{'NOUN'},True,look,liberty,{'sweet'}
+16905,7742__relation_7__law_15,1,1,0,0,0,0.5,7742,law,relation,{'NOUN'},{'NOUN'},True,law,relation,"{'clear', 'strong'}"
+16914,7964__mind_43__light_40,3,3,3,1,1,2.0,7964,light,mind,"{'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,light,mind,"{'brilliant', 'clear', 'bright'}"
+16942,7891__pears_23__breasts_25,3,3,3,2,2,2.5,7891,pears,breasts,{'NOUN'},{'NOUN'},True,pear,breast,{'warm'}
+16943,3251__diagnoses_21__character_2,1,1,1,1,0,1.5,3251,character,diagnoses,{'NOUN'},{'NOUN'},True,character,diagnosis,{'brilliant'}
+16979,7644__integration_6__path_7,2,2,1,0,0,0.5,7644,integration,path,{'NOUN'},{'NOUN'},True,integration,path,{'smooth'}
+16993,2370__win_9__plan_5,2,1,0,0,0,0.5,2370,plan,win,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,plan,win,"{'brilliant', 'clear'}"
+17028,1431__treatment_6__tribute_3,2,1,1,1,0,0.5,1431,tribute,treatment,{'NOUN'},{'NOUN'},True,tribute,treatment,{'soft'}
+17058,6108__father_6__spirits_3,2,1,1,0,0,0.5,6108,spirits,father,{'NOUN'},"{'NOUN', 'VERB'}",True,spirit,father,{'bitter'}
+17066,67__evenings_67__drawing_69,3,3,2,1,1,1.0,67,evenings,drawing,{'NOUN'},"{'ADJ', 'NOUN', 'VERB'}",True,evening,drawing,{'rough'}
+17082,3413__evidence_4__balance_2,3,2,2,1,1,2.0,3413,balance,evidence,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,balance,evidence,"{'strong', 'weak'}"
+17097,7753__splashes_9__blood_11,3,3,2,2,1,1.0,7753,blood,splashes,{'NOUN'},"{'NOUN', 'VERB'}",True,blood,splash,{'bright'}
+17105,2811__food_35__mountains_36,3,3,2,2,1,3.0,2811,food,mountains,{'NOUN'},{'NOUN'},True,food,mountain,"{'soft', 'warm', 'cold', 'clean'}"
+17146,282__playing_49__material_52,2,1,1,1,0,0.5,282,playing,material,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN'}",True,playing,material,{'heavy'}
+17185,7676__system_60__field_55,1,0,0,0,0,1.0,7676,field,system,"{'NOUN', 'VERB'}",{'NOUN'},True,field,system,{'murky'}
+17198,3365__maple_4__family_5,2,2,1,1,0,1.5,3365,maple,family,{'NOUN'},{'NOUN'},True,maple,family,{'solid'}
+17325,336__book_28__breaks_37,1,1,0,0,0,0.5,336,book,breaks,{'NOUN'},"{'NOUN', 'VERB'}",True,book,break,{'bitter'}
+17335,7738__material_14__resistance_11,1,1,0,0,0,1.0,7738,resistance,material,"{'X', 'NOUN'}","{'ADJ', 'NOUN'}",True,resistance,material,{'heavy'}
+17344,223__consumers_18__voice_20,1,1,1,1,1,0.5,223,consumers,voice,{'NOUN'},{'NOUN'},True,consumer,voice,"{'bright', 'soft'}"
+17345,7683__comparison_16__force_20,1,0,0,0,0,0.5,7683,comparison,force,{'NOUN'},"{'X', 'NOUN', 'VERB'}",True,comparison,force,{'weak'}
+17517,218__policy_2__challenge_7,1,1,1,0,0,1.0,218,policy,challenge,{'NOUN'},"{'NOUN', 'VERB'}",True,policy,challenge,"{'heated', 'clear', 'strong', 'bitter'}"
+17552,3256__method_2__attempts_3,1,1,0,0,0,1.0,3256,method,attempts,{'NOUN'},"{'NOUN', 'VERB'}",True,method,attempt,"{'brilliant', 'rough', 'clear'}"
+17607,7762__mass_23__lines_27,2,2,1,1,1,1.0,7762,mass,lines,"{'ADJ', 'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,mass,line,{'solid'}
+17677,3319__coal_16__seams_17,3,1,1,1,1,1.0,3319,coal,seams,{'NOUN'},{'NOUN'},True,coal,seam,"{'deep', 'shallow'}"
+17681,7771__walls_37__blaze_41,2,2,2,0,0,3.0,7771,walls,blaze,{'NOUN'},"{'NOUN', 'VERB'}",True,wall,blaze,"{'brilliant', 'bright'}"
+17752,5969__train_12__catch_10,2,2,2,1,0,2.0,5969,catch,train,"{'NOUN', 'VERB'}","{'NOUN', 'VERB'}",True,catch,train,{'clean'}
+17770,10372__health_17__stamp_18,3,2,1,1,0,0.5,10372,health,stamp,{'NOUN'},"{'NOUN', 'VERB'}",True,health,stamp,{'clear'}
+17793,6131__finger_23__pad_20,2,1,0,0,0,1.0,6131,pad,finger,"{'NOUN', 'VERB'}",{'NOUN'},True,pad,finger,{'clean'}
+17840,338__approval_21__world_29,3,1,1,1,0,0.5,338,approval,world,{'NOUN'},{'NOUN'},True,approval,world,{'warm'}
+17883,1436__conscience_39__cut_34,3,2,2,0,0,2.0,1436,cut,conscience,"{'NOUN', 'VERB'}",{'NOUN'},True,cut,conscience,{'clear'}
+17896,8002__meanings_28__surface_27,3,2,2,1,1,1.0,8002,surface,meanings,"{'ADJ', 'NOUN'}",{'NOUN'},True,surface,meaning,"{'rough', 'clear', 'deep', 'heavy'}"
+17937,15085__look_3__leg_2,2,1,0,0,0,0.5,15085,leg,look,{'NOUN'},"{'NOUN', 'VERB'}",True,leg,look,{'cold'}
+17956,56__labour_44__field_45,2,2,1,1,0,1.0,56,labour,field,{'NOUN'},"{'NOUN', 'VERB'}",True,labour,field,{'soft'}
+17979,5944__rain_4__sheet_2,3,3,2,2,1,2.5,5944,sheet,rain,{'NOUN'},"{'NOUN', 'VERB'}",True,sheet,rain,"{'icy', 'heavy', 'soft', 'clean'}"
+18067,3251__rocks_5__character_2,2,1,1,1,0,1.5,3251,character,rocks,{'NOUN'},"{'NOUN', 'VERB'}",True,character,rock,"{'dim', 'smooth', 'solid', 'rough', 'deep', 'shallow', 'bright', 'cold', 'soft', 'strong', 'warm', 'weak'}"
+18068,2227__message_20__pass_18,1,1,1,0,0,1.0,2227,pass,message,"{'NOUN', 'VERB'}",{'NOUN'},True,pas,message,{'brilliant'}
+18075,1431__freedom_39__fight_36,2,1,1,1,0,0.5,1431,fight,freedom,"{'NOUN', 'VERB'}",{'NOUN'},True,fight,freedom,{'brilliant'}
+18090,7953__chance_12__blows_10,3,3,3,2,2,1.5,7953,blows,chance,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,blow,chance,"{'strong', 'clean'}"
+18300,390__publicity_35__material_36,3,1,1,0,0,0.5,390,publicity,material,{'NOUN'},"{'ADJ', 'NOUN'}",True,publicity,material,{'heavy'}
+18336,1153__light_13__casting_10,2,1,1,1,0,1.0,1153,casting,light,"{'NOUN', 'VERB'}","{'ADJ', 'NOUN', 'VERB'}",True,casting,light,{'brilliant'}
+18412,381__technology_3__revolution_4,3,1,1,1,0,1.0,381,technology,revolution,{'NOUN'},{'NOUN'},True,technology,revolution,{'dim'}
+18413,2438__investment_5__plant_4,3,1,1,0,0,1.0,2438,plant,investment,"{'NOUN', 'VERB'}",{'NOUN'},True,plant,investment,{'bright'}
+18449,7920__identity_18__sense_16,2,1,1,1,0,1.0,7920,sense,identity,"{'NOUN', 'VERB'}",{'NOUN'},True,sense,identity,{'strong'}
